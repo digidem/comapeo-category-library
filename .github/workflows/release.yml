@@ -1,8 +1,9 @@
 name: Build and Release Categories
 
 on:
-  release:
-    types: [created]
+  push:
+    tags:
+      - '*'
 
 jobs:
   build-and-release:
@@ -29,6 +30,13 @@ jobs:
             fi
           done
 
+      - name: Create Release
+        id: create_release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create ${{ github.ref_name }} --generate-notes
+
       - name: Upload .comapeocat files to release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -37,7 +45,7 @@ jobs:
             if [ -d "$dir" ]; then
               for file in "$dir"build/*.comapeocat; do
                 if [ -f "$file" ]; then
-                  gh release upload ${{ github.event.release.tag_name }} "$file"
+                  gh release upload ${{ github.ref_name }} "$file"
                 fi
               done
             fi
