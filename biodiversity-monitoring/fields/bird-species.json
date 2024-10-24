@@ -1,0 +1,7 @@
+{
+  "tagKey": "bird-species",
+  "type": "text",
+  "label": "Bird species",
+  "placeholder": "What kind of bird species is this?",
+  "universal": false
+}

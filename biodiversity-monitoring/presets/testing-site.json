@@ -1,0 +1,23 @@
+{
+  "icon": "testing-site",
+  "color": "#d5a6bd",
+  "fields": [
+    "description",
+    "testing-type"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "testing-site": "yes"
+  },
+  "name": "Testing site",
+  "sort": 24,
+  "terms": [
+    "Testing site",
+    "description",
+    "testing type"
+  ]
+}

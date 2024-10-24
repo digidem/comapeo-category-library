@@ -1,0 +1,7 @@
+{
+  "tagKey": "date-it-started",
+  "type": "text",
+  "label": "Date it started",
+  "placeholder": "When did the fire start?",
+  "universal": false
+}

@@ -1,0 +1,17 @@
+{
+  "tagKey": "ownership-of-creation",
+  "type": "selectMultiple",
+  "label": "Ownership of Creation",
+  "placeholder": "Are the created resources or outputs personally owned or collectively owned by a group?",
+  "options": [
+    {
+      "label": "Personal",
+      "value": "personal"
+    },
+    {
+      "label": "Collective",
+      "value": "collective"
+    }
+  ],
+  "universal": false
+}

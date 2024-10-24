@@ -1,0 +1,27 @@
+{
+  "icon": "poaching",
+  "color": "#ffd966",
+  "fields": [
+    "company",
+    "involvement-of-local-communities",
+    "environmental-impact-observed",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "poaching": "yes"
+  },
+  "name": "Poaching",
+  "sort": 7,
+  "terms": [
+    "Poaching",
+    "company",
+    "involvement of local communities",
+    "environmental impact observed",
+    "report to regulatory authorities"
+  ]
+}

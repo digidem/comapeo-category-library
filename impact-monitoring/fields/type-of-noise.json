@@ -1,0 +1,29 @@
+{
+  "tagKey": "type-of-noise",
+  "type": "selectOne",
+  "label": "Type of noise",
+  "placeholder": "What kind of noise do you hear here?",
+  "options": [
+    {
+      "label": "Urban noise",
+      "value": "urban-noise"
+    },
+    {
+      "label": "Continuous noise",
+      "value": "continuous-noise"
+    },
+    {
+      "label": "Intermittent noise",
+      "value": "intermittent-noise"
+    },
+    {
+      "label": "Machine noise",
+      "value": "machine-noise"
+    },
+    {
+      "label": "Train noise",
+      "value": "train-noise"
+    }
+  ],
+  "universal": false
+}

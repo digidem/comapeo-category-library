@@ -1,0 +1,25 @@
+{
+  "icon": "community-paths",
+  "color": "#ff6d01",
+  "fields": [
+    "status",
+    "usage",
+    "permanency"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "community-paths": "yes"
+  },
+  "name": "Community Paths",
+  "sort": 12,
+  "terms": [
+    "Community Paths",
+    "status",
+    "usage",
+    "permanency"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "tagKey": "equipment-in-use",
+  "type": "selectMultiple",
+  "label": "Equipment in use",
+  "placeholder": "What type of equipment, machines or tools are being used in this activity?",
+  "options": [
+    {
+      "label": "Drilling rig",
+      "value": "drilling-rig"
+    },
+    {
+      "label": "Chainsaw",
+      "value": "chainsaw"
+    },
+    {
+      "label": "Pump",
+      "value": "pump"
+    },
+    {
+      "label": "Excavator",
+      "value": "excavator"
+    },
+    {
+      "label": "Dump truck",
+      "value": "dump-truck"
+    },
+    {
+      "label": "Helicopter",
+      "value": "helicopter"
+    },
+    {
+      "label": "Fishing net",
+      "value": "fishing-net"
+    },
+    {
+      "label": "Bulldozer",
+      "value": "bulldozer"
+    },
+    {
+      "label": "Boat",
+      "value": "boat"
+    },
+    {
+      "label": "Crane",
+      "value": "crane"
+    },
+    {
+      "label": "Generator",
+      "value": "generator"
+    },
+    {
+      "label": "Water storage tank",
+      "value": "water-storage-tank"
+    },
+    {
+      "label": "Pipeline",
+      "value": "pipeline"
+    },
+    {
+      "label": "Truck",
+      "value": "truck"
+    },
+    {
+      "label": "Bird cages",
+      "value": "bird-cages"
+    },
+    {
+      "label": "No equipment found",
+      "value": "no-equipment-found"
+    }
+  ],
+  "universal": false
+}

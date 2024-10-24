@@ -1,0 +1,7 @@
+{
+  "tagKey": "location-of-impact",
+  "type": "text",
+  "label": "Location of impact",
+  "placeholder": "Where is the impact located?",
+  "universal": false
+}

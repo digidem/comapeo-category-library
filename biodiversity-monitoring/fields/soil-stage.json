@@ -1,0 +1,69 @@
+{
+  "tagKey": "soil-stage",
+  "type": "selectMultiple",
+  "label": "Soil stage",
+  "placeholder": "How would you describe the stage of this soil regeneration?",
+  "options": [
+    {
+      "label": "Bare soil",
+      "value": "bare-soil"
+    },
+    {
+      "label": "Initial vegetation growth",
+      "value": "initial-vegetation-growth"
+    },
+    {
+      "label": "Grass cover",
+      "value": "grass-cover"
+    },
+    {
+      "label": "Herbaceous plants",
+      "value": "herbaceous-plants"
+    },
+    {
+      "label": "Shrub establishment",
+      "value": "shrub-establishment"
+    },
+    {
+      "label": "Young tree growth",
+      "value": "young-tree-growth"
+    },
+    {
+      "label": "Tree canopy formation",
+      "value": "tree-canopy-formation"
+    },
+    {
+      "label": "Soil nutrient enrichment",
+      "value": "soil-nutrient-enrichment"
+    },
+    {
+      "label": "Root system expansion",
+      "value": "root-system-expansion"
+    },
+    {
+      "label": "Biodiversity increase",
+      "value": "biodiversity-increase"
+    },
+    {
+      "label": "Full vegetation cover",
+      "value": "full-vegetation-cover"
+    },
+    {
+      "label": "Ecosystem stabilization",
+      "value": "ecosystem-stabilization"
+    },
+    {
+      "label": "Organic matter buildup",
+      "value": "organic-matter-buildup"
+    },
+    {
+      "label": "Erosion control",
+      "value": "erosion-control"
+    },
+    {
+      "label": "Mature forest development",
+      "value": "mature-forest-development"
+    }
+  ],
+  "universal": false
+}

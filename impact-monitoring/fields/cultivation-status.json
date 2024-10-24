@@ -1,0 +1,17 @@
+{
+  "tagKey": "cultivation-status",
+  "type": "selectOne",
+  "label": "Cultivation status",
+  "placeholder": "Is this plantation active or inactive?",
+  "options": [
+    {
+      "label": "Active",
+      "value": "active"
+    },
+    {
+      "label": "Inactive",
+      "value": "inactive"
+    }
+  ],
+  "universal": false
+}

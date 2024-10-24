@@ -1,0 +1,29 @@
+{
+  "icon": "fish-farm",
+  "color": "#ffd966",
+  "fields": [
+    "company",
+    "involvement-of-local-communities",
+    "environmental-impact-observed",
+    "report-to-regulatory-authorities",
+    "equipment-in-use"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "fish-farm": "yes"
+  },
+  "name": "Fish farm",
+  "sort": 8,
+  "terms": [
+    "Fish farm",
+    "company",
+    "involvement of local communities",
+    "environmental impact observed",
+    "report to regulatory authorities",
+    "equipment in use"
+  ]
+}

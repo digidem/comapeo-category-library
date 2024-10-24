@@ -1,0 +1,29 @@
+{
+  "icon": "illegal-fishing",
+  "color": "#ffd966",
+  "fields": [
+    "company",
+    "equipment-in-use",
+    "environmental-impact-observed",
+    "involvement-of-local-communities",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "illegal-fishing": "yes"
+  },
+  "name": "Illegal fishing",
+  "sort": 6,
+  "terms": [
+    "Illegal fishing",
+    "company",
+    "equipment in use",
+    "environmental impact observed",
+    "involvement of local communities",
+    "report to regulatory authorities"
+  ]
+}

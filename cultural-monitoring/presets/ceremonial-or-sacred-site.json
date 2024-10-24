@@ -1,0 +1,25 @@
+{
+  "icon": "ceremonial-or-sacred-site",
+  "color": "#38761d",
+  "fields": [
+    "name",
+    "usage",
+    "land-holding"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "ceremonial-or-sacred-site": "yes"
+  },
+  "name": "Ceremonial or sacred site",
+  "sort": 5,
+  "terms": [
+    "Ceremonial or sacred site",
+    "name",
+    "usage",
+    "land holding"
+  ]
+}

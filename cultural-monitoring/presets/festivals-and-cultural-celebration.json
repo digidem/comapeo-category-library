@@ -1,0 +1,23 @@
+{
+  "icon": "festivals-and-cultural-celebration",
+  "color": "#674ea7",
+  "fields": [
+    "name",
+    "frequency"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "festivals-and-cultural-celebration": "yes"
+  },
+  "name": "Festivals and Cultural Celebration",
+  "sort": 20,
+  "terms": [
+    "Festivals and Cultural Celebration",
+    "name",
+    "frequency"
+  ]
+}

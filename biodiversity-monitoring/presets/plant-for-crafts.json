@@ -1,0 +1,25 @@
+{
+  "icon": "plant-for-crafts",
+  "color": "#b6d7a8",
+  "fields": [
+    "plant-species",
+    "plant-uses",
+    "name"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "plant-for-crafts": "yes"
+  },
+  "name": "Plant for crafts",
+  "sort": 11,
+  "terms": [
+    "Plant for crafts",
+    "plant species",
+    "plant uses",
+    "name"
+  ]
+}

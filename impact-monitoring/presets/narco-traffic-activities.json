@@ -1,0 +1,29 @@
+{
+  "icon": "narco-traffic-activities",
+  "color": "#9900ff",
+  "fields": [
+    "company",
+    "type-of-activity",
+    "involvement-of-local-communities",
+    "environmental-impact-observed",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "narco-traffic-activities": "yes"
+  },
+  "name": "Narco-traffic activities",
+  "sort": 17,
+  "terms": [
+    "Narco-traffic activities",
+    "company",
+    "type of activity",
+    "involvement of local communities",
+    "environmental impact observed",
+    "report to regulatory authorities"
+  ]
+}

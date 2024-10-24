@@ -1,0 +1,23 @@
+{
+  "icon": "artisans-creators",
+  "color": "#674ea7",
+  "fields": [
+    "name",
+    "type-of-creation"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "artisans-creators": "yes"
+  },
+  "name": "Artisans & Creators",
+  "sort": 19,
+  "terms": [
+    "Artisans & Creators",
+    "name",
+    "type of creation"
+  ]
+}

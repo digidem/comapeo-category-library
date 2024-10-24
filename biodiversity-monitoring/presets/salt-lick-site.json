@@ -1,0 +1,23 @@
+{
+  "icon": "salt-lick-site",
+  "color": "#ffd966",
+  "fields": [
+    "description",
+    "pollution"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "salt-lick-site": "yes"
+  },
+  "name": "Salt lick site ",
+  "sort": 21,
+  "terms": [
+    "Salt lick site ",
+    "description",
+    "pollution"
+  ]
+}

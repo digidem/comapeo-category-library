@@ -1,0 +1,25 @@
+{
+  "icon": "historical-site",
+  "color": "#38761d",
+  "fields": [
+    "name",
+    "usage",
+    "land-holding"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "historical-site": "yes"
+  },
+  "name": "Historical site",
+  "sort": 4,
+  "terms": [
+    "Historical site",
+    "name",
+    "usage",
+    "land holding"
+  ]
+}

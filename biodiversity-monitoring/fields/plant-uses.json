@@ -1,0 +1,7 @@
+{
+  "tagKey": "plant-uses",
+  "type": "text",
+  "label": "Plant uses",
+  "placeholder": "How to people use this plant in this territory?",
+  "universal": false
+}

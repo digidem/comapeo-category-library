@@ -1,0 +1,23 @@
+{
+  "icon": "plant",
+  "color": "#b6d7a8",
+  "fields": [
+    "plant-species",
+    "name"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "plant": "yes"
+  },
+  "name": "Plant",
+  "sort": 8,
+  "terms": [
+    "Plant",
+    "plant species",
+    "name"
+  ]
+}

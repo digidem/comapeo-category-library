@@ -1,0 +1,7 @@
+{
+  "tagKey": "type-of-activity",
+  "type": "text",
+  "label": "Type of activity",
+  "placeholder": "What specific actions or events are taking place?",
+  "universal": false
+}

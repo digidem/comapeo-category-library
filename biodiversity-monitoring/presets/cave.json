@@ -1,0 +1,21 @@
+{
+  "icon": "cave",
+  "color": "#ffd966",
+  "fields": [
+    "name"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "cave": "yes"
+  },
+  "name": "Cave ",
+  "sort": 20,
+  "terms": [
+    "Cave ",
+    "name"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "icon": "traditional-dance",
+  "color": "#674ea7",
+  "fields": [
+    "type-of-creation",
+    "ownership-of-creation",
+    "creator"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "traditional-dance": "yes"
+  },
+  "name": "Traditional Dance",
+  "sort": 18,
+  "terms": [
+    "Traditional Dance",
+    "type of creation",
+    "ownership of creation",
+    "creator"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "icon": "water-animal",
+  "color": "#e69138",
+  "fields": [
+    "animal-type"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "water-animal": "yes"
+  },
+  "name": "Water animal ",
+  "sort": 2,
+  "terms": [
+    "Water animal ",
+    "animal type"
+  ]
+}

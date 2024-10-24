@@ -1,0 +1,25 @@
+{
+  "icon": "hunting-site",
+  "color": "#38761d",
+  "fields": [
+    "status",
+    "species",
+    "land-holding"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "hunting-site": "yes"
+  },
+  "name": "Hunting site",
+  "sort": 8,
+  "terms": [
+    "Hunting site",
+    "status",
+    "species",
+    "land holding"
+  ]
+}

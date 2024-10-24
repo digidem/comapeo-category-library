@@ -1,0 +1,25 @@
+{
+  "icon": "burial-site",
+  "color": "#38761d",
+  "fields": [
+    "name",
+    "status",
+    "land-holding"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "burial-site": "yes"
+  },
+  "name": "Burial site",
+  "sort": 9,
+  "terms": [
+    "Burial site",
+    "name",
+    "status",
+    "land holding"
+  ]
+}

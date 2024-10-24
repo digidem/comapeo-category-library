@@ -1,0 +1,7 @@
+{
+  "tagKey": "name-of-owner",
+  "type": "text",
+  "label": "Name of owner",
+  "placeholder": "Who is the person, family, or organization that legally owns or manages the space?",
+  "universal": false
+}

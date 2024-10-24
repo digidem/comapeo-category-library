@@ -1,0 +1,29 @@
+{
+  "icon": "tourism-impact",
+  "color": "#9900ff",
+  "fields": [
+    "company",
+    "location-of-impact",
+    "involvement-of-local-communities",
+    "environmental-impact-observed",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "tourism-impact": "yes"
+  },
+  "name": "Tourism impact",
+  "sort": 11,
+  "terms": [
+    "Tourism impact",
+    "company",
+    "location of impact",
+    "involvement of local communities",
+    "environmental impact observed",
+    "report to regulatory authorities"
+  ]
+}

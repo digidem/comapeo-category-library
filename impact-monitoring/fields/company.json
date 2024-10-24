@@ -1,0 +1,7 @@
+{
+  "tagKey": "company",
+  "type": "text",
+  "label": "Company",
+  "placeholder": "What is the company name?",
+  "universal": false
+}

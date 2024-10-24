@@ -1,0 +1,45 @@
+{
+  "tagKey": "environmental-impact-observed",
+  "type": "selectMultiple",
+  "label": "Environmental impact observed",
+  "placeholder": "What environmental impacts were observed?",
+  "options": [
+    {
+      "label": "Air pollution",
+      "value": "air-pollution"
+    },
+    {
+      "label": "Water contamination",
+      "value": "water-contamination"
+    },
+    {
+      "label": "Soil degradation",
+      "value": "soil-degradation"
+    },
+    {
+      "label": "Noise disturbance",
+      "value": "noise-disturbance"
+    },
+    {
+      "label": "Extinction of animal species",
+      "value": "extinction-of-animal-species"
+    },
+    {
+      "label": "Extinction of plant species",
+      "value": "extinction-of-plant-species"
+    },
+    {
+      "label": "Deforestation",
+      "value": "deforestation"
+    },
+    {
+      "label": "Erosion",
+      "value": "erosion"
+    },
+    {
+      "label": "Alteration of waterways",
+      "value": "alteration-of-waterways"
+    }
+  ],
+  "universal": false
+}

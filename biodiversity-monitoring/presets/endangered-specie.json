@@ -1,0 +1,23 @@
+{
+  "icon": "endangered-specie",
+  "color": "#ea9999",
+  "fields": [
+    "animal-type",
+    "type-of-specie"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "endangered-specie": "yes"
+  },
+  "name": "Endangered specie",
+  "sort": 6,
+  "terms": [
+    "Endangered specie",
+    "animal type",
+    "type of specie"
+  ]
+}

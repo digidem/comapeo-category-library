@@ -1,0 +1,7 @@
+{
+  "tagKey": "tree-species",
+  "type": "text",
+  "label": "Tree species ",
+  "placeholder": "What kind of tree species is this?",
+  "universal": false
+}

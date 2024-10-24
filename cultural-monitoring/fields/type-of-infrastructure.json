@@ -1,0 +1,49 @@
+{
+  "tagKey": "type-of-infrastructure",
+  "type": "selectMultiple",
+  "label": "Type of infrastructure",
+  "placeholder": "What is this physical structure?",
+  "options": [
+    {
+      "label": "Community' House",
+      "value": "community-house"
+    },
+    {
+      "label": "School",
+      "value": "school"
+    },
+    {
+      "label": "Medical Post",
+      "value": "medical-post"
+    },
+    {
+      "label": "Airstrip",
+      "value": "airstrip"
+    },
+    {
+      "label": "Store",
+      "value": "store"
+    },
+    {
+      "label": "Govermental officce",
+      "value": "govermental-officce"
+    },
+    {
+      "label": "Sport Court",
+      "value": "sport-court"
+    },
+    {
+      "label": "Electrical grid",
+      "value": "electrical-grid"
+    },
+    {
+      "label": "Internet point",
+      "value": "internet-point"
+    },
+    {
+      "label": "Other",
+      "value": "other"
+    }
+  ],
+  "universal": false
+}

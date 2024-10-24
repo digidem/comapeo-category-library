@@ -1,0 +1,7 @@
+{
+  "tagKey": "date-of-spill",
+  "type": "text",
+  "label": "Date of spill",
+  "placeholder": "When did this start?",
+  "universal": false
+}

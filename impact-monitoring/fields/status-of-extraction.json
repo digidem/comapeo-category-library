@@ -1,0 +1,17 @@
+{
+  "tagKey": "status-of-extraction",
+  "type": "selectOne",
+  "label": "Status of extraction",
+  "placeholder": "What is the extraction status?",
+  "options": [
+    {
+      "label": "Active",
+      "value": "active"
+    },
+    {
+      "label": "Inactive",
+      "value": "inactive"
+    }
+  ],
+  "universal": false
+}

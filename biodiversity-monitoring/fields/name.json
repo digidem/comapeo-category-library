@@ -1,0 +1,7 @@
+{
+  "tagKey": "name",
+  "type": "text",
+  "label": "Name",
+  "placeholder": "How do you call this?",
+  "universal": false
+}

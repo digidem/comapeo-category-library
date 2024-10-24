@@ -1,0 +1,21 @@
+{
+  "tagKey": "site-type",
+  "type": "selectMultiple",
+  "label": "Site type",
+  "placeholder": "What kind of site is this?",
+  "options": [
+    {
+      "label": "Mating site",
+      "value": "mating-site"
+    },
+    {
+      "label": "Nesting site",
+      "value": "nesting-site"
+    },
+    {
+      "label": "Sprawning site",
+      "value": "sprawning-site"
+    }
+  ],
+  "universal": false
+}

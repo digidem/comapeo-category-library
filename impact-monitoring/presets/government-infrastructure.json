@@ -1,0 +1,29 @@
+{
+  "icon": "government-infrastructure",
+  "color": "#9900ff",
+  "fields": [
+    "company",
+    "type-of-infrastructure",
+    "involvement-of-local-communities",
+    "environmental-impact-observed",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "government-infrastructure": "yes"
+  },
+  "name": "Government infrastructure",
+  "sort": 16,
+  "terms": [
+    "Government infrastructure",
+    "company",
+    "type of infrastructure",
+    "involvement of local communities",
+    "environmental impact observed",
+    "report to regulatory authorities"
+  ]
+}

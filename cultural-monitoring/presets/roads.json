@@ -1,0 +1,25 @@
+{
+  "icon": "roads",
+  "color": "#ff6d01",
+  "fields": [
+    "status",
+    "usage",
+    "permanency"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "roads": "yes"
+  },
+  "name": "Roads",
+  "sort": 13,
+  "terms": [
+    "Roads",
+    "status",
+    "usage",
+    "permanency"
+  ]
+}

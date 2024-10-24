@@ -1,0 +1,31 @@
+{
+  "icon": "illicit-cultivation",
+  "color": "#9900ff",
+  "fields": [
+    "company",
+    "cultivation-status",
+    "environmental-impact-observed",
+    "involvement-of-local-communities",
+    "equipment-in-use",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "illicit-cultivation": "yes"
+  },
+  "name": "Illicit cultivation",
+  "sort": 18,
+  "terms": [
+    "Illicit cultivation",
+    "company",
+    "cultivation status",
+    "environmental impact observed",
+    "involvement of local communities",
+    "equipment in use",
+    "report to regulatory authorities"
+  ]
+}

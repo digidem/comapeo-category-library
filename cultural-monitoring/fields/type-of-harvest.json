@@ -1,0 +1,17 @@
+{
+  "tagKey": "type-of-harvest",
+  "type": "selectMultiple",
+  "label": "Type of harvest",
+  "placeholder": "What is the nature of the resource being collected?",
+  "options": [
+    {
+      "label": "Wild harvest",
+      "value": "wild-harvest"
+    },
+    {
+      "label": "Sowing",
+      "value": "sowing"
+    }
+  ],
+  "universal": false
+}

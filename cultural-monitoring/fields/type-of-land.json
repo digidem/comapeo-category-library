@@ -1,0 +1,17 @@
+{
+  "tagKey": "type-of-land",
+  "type": "selectMultiple",
+  "label": "Type of land",
+  "placeholder": "How is the land classified as?",
+  "options": [
+    {
+      "label": "Rural Indigenous",
+      "value": "rural-indigenous"
+    },
+    {
+      "label": "Non-indigenous",
+      "value": "non-indigenous"
+    }
+  ],
+  "universal": false
+}

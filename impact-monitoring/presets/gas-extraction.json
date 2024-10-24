@@ -1,0 +1,31 @@
+{
+  "icon": "gas-extraction",
+  "color": "#ff9900",
+  "fields": [
+    "company",
+    "status-of-extraction",
+    "equipment-in-use",
+    "environmental-impact-observed",
+    "involvement-of-local-communities",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "gas-extraction": "yes"
+  },
+  "name": "Gas extraction",
+  "sort": 3,
+  "terms": [
+    "Gas extraction",
+    "company",
+    "status of extraction",
+    "equipment in use",
+    "environmental impact observed",
+    "involvement of local communities",
+    "report to regulatory authorities"
+  ]
+}

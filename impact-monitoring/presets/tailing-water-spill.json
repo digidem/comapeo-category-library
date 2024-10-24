@@ -1,0 +1,29 @@
+{
+  "icon": "tailing-water-spill",
+  "color": "#9900ff",
+  "fields": [
+    "company",
+    "equipment-in-use",
+    "involvement-of-local-communities",
+    "environmental-impact-observed",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "tailing-water-spill": "yes"
+  },
+  "name": "Tailing water spill",
+  "sort": 20,
+  "terms": [
+    "Tailing water spill",
+    "company",
+    "equipment in use",
+    "involvement of local communities",
+    "environmental impact observed",
+    "report to regulatory authorities"
+  ]
+}

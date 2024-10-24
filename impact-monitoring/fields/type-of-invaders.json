@@ -1,0 +1,21 @@
+{
+  "tagKey": "type-of-invaders",
+  "type": "selectOne",
+  "label": "Type of invaders",
+  "placeholder": "What kind of invasion is happening here?",
+  "options": [
+    {
+      "label": "Settler",
+      "value": "settler"
+    },
+    {
+      "label": "Corporation",
+      "value": "corporation"
+    },
+    {
+      "label": "Armed group",
+      "value": "armed-group"
+    }
+  ],
+  "universal": false
+}

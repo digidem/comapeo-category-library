@@ -1,0 +1,7 @@
+{
+  "tagKey": "species",
+  "type": "text",
+  "label": "Species",
+  "placeholder": "What specific spices of plants and animals are produced or utilized in the area?",
+  "universal": false
+}

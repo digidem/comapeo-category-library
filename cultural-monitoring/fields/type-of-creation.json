@@ -1,0 +1,65 @@
+{
+  "tagKey": "type-of-creation",
+  "type": "selectMultiple",
+  "label": "Type of creation",
+  "placeholder": "What different types of arts and art expressions are represented?",
+  "options": [
+    {
+      "label": "Painting",
+      "value": "painting"
+    },
+    {
+      "label": "Sculpture",
+      "value": "sculpture"
+    },
+    {
+      "label": "Textiles",
+      "value": "textiles"
+    },
+    {
+      "label": "Ceramics",
+      "value": "ceramics"
+    },
+    {
+      "label": "Theather",
+      "value": "theather"
+    },
+    {
+      "label": "Basketry",
+      "value": "basketry"
+    },
+    {
+      "label": "Beadwork",
+      "value": "beadwork"
+    },
+    {
+      "label": "Carving",
+      "value": "carving"
+    },
+    {
+      "label": "Body Painting",
+      "value": "body-painting"
+    },
+    {
+      "label": "Tattoos",
+      "value": "tattoos"
+    },
+    {
+      "label": "Written Literature",
+      "value": "written-literature"
+    },
+    {
+      "label": "Photography",
+      "value": "photography"
+    },
+    {
+      "label": "Film and Video",
+      "value": "film-and-video"
+    },
+    {
+      "label": "Other",
+      "value": "other"
+    }
+  ],
+  "universal": false
+}

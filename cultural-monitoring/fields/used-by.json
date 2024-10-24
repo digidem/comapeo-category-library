@@ -1,0 +1,17 @@
+{
+  "tagKey": "used-by",
+  "type": "selectMultiple",
+  "label": "Used by",
+  "placeholder": "Who uses it?",
+  "options": [
+    {
+      "label": "Humans",
+      "value": "humans"
+    },
+    {
+      "label": "Animals",
+      "value": "animals"
+    }
+  ],
+  "universal": false
+}

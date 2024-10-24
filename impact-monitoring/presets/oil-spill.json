@@ -1,0 +1,33 @@
+{
+  "icon": "oil-spill",
+  "color": "#ff9900",
+  "fields": [
+    "company",
+    "status-of-extraction",
+    "equipment-in-use",
+    "environmental-impact-observed",
+    "date-of-spill",
+    "involvement-of-local-communities",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "oil-spill": "yes"
+  },
+  "name": "Oil spill",
+  "sort": 2,
+  "terms": [
+    "Oil spill",
+    "company",
+    "status of extraction",
+    "equipment in use",
+    "environmental impact observed",
+    "date of spill",
+    "involvement of local communities",
+    "report to regulatory authorities"
+  ]
+}

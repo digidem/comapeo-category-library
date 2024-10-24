@@ -1,0 +1,21 @@
+{
+  "tagKey": "method-of-harvesting",
+  "type": "selectMultiple",
+  "label": "Method of harvesting",
+  "placeholder": "What techniques are employed to gather resources?",
+  "options": [
+    {
+      "label": "Hand Harvesting",
+      "value": "hand-harvesting"
+    },
+    {
+      "label": "Tools Harvesting",
+      "value": "tools-harvesting"
+    },
+    {
+      "label": "Machinery Harvesting",
+      "value": "machinery-harvesting"
+    }
+  ],
+  "universal": false
+}

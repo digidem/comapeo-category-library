@@ -1,0 +1,65 @@
+{
+  "tagKey": "testing-type",
+  "type": "selectMultiple",
+  "label": "Testing type",
+  "placeholder": "What is being tested here?",
+  "options": [
+    {
+      "label": "Water quality monitoring station",
+      "value": "water-quality-monitoring-station"
+    },
+    {
+      "label": "Mercury testing site",
+      "value": "mercury-testing-site"
+    },
+    {
+      "label": "Contamination analysis site",
+      "value": "contamination-analysis-site"
+    },
+    {
+      "label": "Spill detection point",
+      "value": "spill-detection-point"
+    },
+    {
+      "label": "Pollution sampling site",
+      "value": "pollution-sampling-site"
+    },
+    {
+      "label": "Chemical testing site",
+      "value": "chemical-testing-site"
+    },
+    {
+      "label": "Aquatic toxicity testing site",
+      "value": "aquatic-toxicity-testing-site"
+    },
+    {
+      "label": "Heavy metal testing zone",
+      "value": "heavy-metal-testing-zone"
+    },
+    {
+      "label": "Sediment sampling station",
+      "value": "sediment-sampling-station"
+    },
+    {
+      "label": "Surface water testing site",
+      "value": "surface-water-testing-site"
+    },
+    {
+      "label": "Groundwater monitoring site",
+      "value": "groundwater-monitoring-site"
+    },
+    {
+      "label": "Effluent testing site",
+      "value": "effluent-testing-site"
+    },
+    {
+      "label": "Drinking water",
+      "value": "drinking-water"
+    },
+    {
+      "label": "Runoff sampling area",
+      "value": "runoff-sampling-area"
+    }
+  ],
+  "universal": false
+}

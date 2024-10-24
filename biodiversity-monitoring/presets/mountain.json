@@ -1,0 +1,21 @@
+{
+  "icon": "mountain",
+  "color": "#ffd966",
+  "fields": [
+    "name"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "mountain": "yes"
+  },
+  "name": "Mountain",
+  "sort": 23,
+  "terms": [
+    "Mountain",
+    "name"
+  ]
+}

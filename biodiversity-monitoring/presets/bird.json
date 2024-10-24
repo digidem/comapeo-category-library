@@ -1,0 +1,21 @@
+{
+  "icon": "bird",
+  "color": "#e69138",
+  "fields": [
+    "bird-species"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "bird": "yes"
+  },
+  "name": "Bird ",
+  "sort": 3,
+  "terms": [
+    "Bird ",
+    "bird species"
+  ]
+}

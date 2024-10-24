@@ -1,0 +1,25 @@
+{
+  "icon": "fungi",
+  "color": "#b6d7a8",
+  "fields": [
+    "fungi-species",
+    "edible",
+    "fungi-uses"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "fungi": "yes"
+  },
+  "name": "Fungi ",
+  "sort": 13,
+  "terms": [
+    "Fungi ",
+    "fungi species",
+    "edible",
+    "fungi uses"
+  ]
+}

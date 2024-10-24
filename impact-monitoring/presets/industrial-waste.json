@@ -1,0 +1,29 @@
+{
+  "icon": "industrial-waste",
+  "color": "#9900ff",
+  "fields": [
+    "company",
+    "equipment-in-use",
+    "involvement-of-local-communities",
+    "environmental-impact-observed",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "industrial-waste": "yes"
+  },
+  "name": "Industrial waste",
+  "sort": 13,
+  "terms": [
+    "Industrial waste",
+    "company",
+    "equipment in use",
+    "involvement of local communities",
+    "environmental impact observed",
+    "report to regulatory authorities"
+  ]
+}

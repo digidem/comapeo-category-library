@@ -1,0 +1,25 @@
+{
+  "tagKey": "type-of-practice",
+  "type": "selectMultiple",
+  "label": "Type of practice",
+  "placeholder": "What categories of activities focus on language revitalization?",
+  "options": [
+    {
+      "label": "Language classes & workshops",
+      "value": "language-classes-workshops"
+    },
+    {
+      "label": "Curriculum Development activity",
+      "value": "curriculum-development-activity"
+    },
+    {
+      "label": "Language Documentation",
+      "value": "language-documentation"
+    },
+    {
+      "label": "Other",
+      "value": "other"
+    }
+  ],
+  "universal": false
+}

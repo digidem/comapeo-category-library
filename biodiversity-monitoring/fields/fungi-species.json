@@ -1,0 +1,7 @@
+{
+  "tagKey": "fungi-species",
+  "type": "text",
+  "label": "Fungi species",
+  "placeholder": "What kind of fungi is this?",
+  "universal": false
+}

@@ -1,0 +1,17 @@
+{
+  "tagKey": "activity",
+  "type": "selectMultiple",
+  "label": "Activity",
+  "placeholder": "What kind of activity is this?",
+  "options": [
+    {
+      "label": "Human",
+      "value": "human"
+    },
+    {
+      "label": "Animal",
+      "value": "animal"
+    }
+  ],
+  "universal": false
+}

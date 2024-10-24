@@ -1,0 +1,568 @@
+{
+  "presets.oil-extraction.name": {
+    "message": "Extração de óleo",
+    "description": "Name for preset 'oil-extraction'"
+  },
+  "presets.oil-spill.name": {
+    "message": "Derramamento de óleo",
+    "description": "Name for preset 'oil-spill'"
+  },
+  "presets.gas-extraction.name": {
+    "message": "Extração de gás",
+    "description": "Name for preset 'gas-extraction'"
+  },
+  "presets.mining.name": {
+    "message": "Mineração",
+    "description": "Name for preset 'mining'"
+  },
+  "presets.illegal-logging.name": {
+    "message": "Exploração madeireira ilegal",
+    "description": "Name for preset 'illegal-logging'"
+  },
+  "presets.illegal-fishing.name": {
+    "message": "Pesca ilegal",
+    "description": "Name for preset 'illegal-fishing'"
+  },
+  "presets.poaching.name": {
+    "message": "Caça ilegal",
+    "description": "Name for preset 'poaching'"
+  },
+  "presets.fish-farm.name": {
+    "message": "Criação de peixe em cativeiro",
+    "description": "Name for preset 'fish-farm'"
+  },
+  "presets.cattle-raising.name": {
+    "message": "Pecuária",
+    "description": "Name for preset 'cattle-raising'"
+  },
+  "presets.wildlife-trafficking.name": {
+    "message": "Tráfico de animais silvestres",
+    "description": "Name for preset 'wildlife-trafficking'"
+  },
+  "presets.tourism-impact.name": {
+    "message": "Impacto do turismo",
+    "description": "Name for preset 'tourism-impact'"
+  },
+  "presets.water-resource-utilization.name": {
+    "message": "Utilização de recursos hídricos",
+    "description": "Name for preset 'water-resource-utilization'"
+  },
+  "presets.industrial-waste.name": {
+    "message": "Resíduos industriais",
+    "description": "Name for preset 'industrial-waste'"
+  },
+  "presets.noise-pollution.name": {
+    "message": "Poluição Sonora",
+    "description": "Name for preset 'noise-pollution'"
+  },
+  "presets.land-invasion.name": {
+    "message": "Invasão de terra",
+    "description": "Name for preset 'land-invasion'"
+  },
+  "presets.government-infrastructure.name": {
+    "message": "Infraestrutura governamental",
+    "description": "Name for preset 'government-infrastructure'"
+  },
+  "presets.narco-traffic-activities.name": {
+    "message": "Atividades de narcotráfico",
+    "description": "Name for preset 'narco-traffic-activities'"
+  },
+  "presets.illicit-cultivation.name": {
+    "message": "Cultivo ilícito",
+    "description": "Name for preset 'illicit-cultivation'"
+  },
+  "presets.illegal-transportation-routes.name": {
+    "message": "Rotas de transporte ilegais",
+    "description": "Name for preset 'illegal-transportation-routes'"
+  },
+  "presets.tailing-water-spill.name": {
+    "message": "Derramamento de água residual",
+    "description": "Name for preset 'tailing-water-spill'"
+  },
+  "presets.wild-fire.name": {
+    "message": "Incêndio",
+    "description": "Name for preset 'wild-fire'"
+  },
+  "fields.company.label": {
+    "message": "Empresa",
+    "description": "Label for field 'company'"
+  },
+  "fields.status-of-extraction.label": {
+    "message": "Status da extração ",
+    "description": "Label for field 'status-of-extraction'"
+  },
+  "fields.equipment-in-use.label": {
+    "message": "Equipamento em uso",
+    "description": "Label for field 'equipment-in-use'"
+  },
+  "fields.environmental-impact-observed.label": {
+    "message": "Impacto ambiental observado",
+    "description": "Label for field 'environmental-impact-observed'"
+  },
+  "fields.date-of-spill.label": {
+    "message": "Data do derramamento ",
+    "description": "Label for field 'date-of-spill'"
+  },
+  "fields.level-of-mining.label": {
+    "message": "Nível da mineração",
+    "description": "Label for field 'level-of-mining'"
+  },
+  "fields.type-of-mining.label": {
+    "message": "Tipo de mineração",
+    "description": "Label for field 'type-of-mining'"
+  },
+  "fields.type-of-invaders.label": {
+    "message": "Tipo de invasores",
+    "description": "Label for field 'type-of-invaders'"
+  },
+  "fields.purpose-of-invasion.label": {
+    "message": "Objetivo da invasão",
+    "description": "Label for field 'purpose-of-invasion'"
+  },
+  "fields.type-of-noise.label": {
+    "message": "Tipo de ruído",
+    "description": "Label for field 'type-of-noise'"
+  },
+  "fields.type-of-infrastructure.label": {
+    "message": "Tipo de infraestrutura",
+    "description": "Label for field 'type-of-infrastructure'"
+  },
+  "fields.cultivation-status.label": {
+    "message": "Status de cultivo",
+    "description": "Label for field 'cultivation-status'"
+  },
+  "fields.type-of-activity.label": {
+    "message": "Tipo de atividade",
+    "description": "Label for field 'type-of-activity'"
+  },
+  "fields.involvement-of-local-communities.label": {
+    "message": "Envolvimento das comunidades locais",
+    "description": "Label for field 'involvement-of-local-communities'"
+  },
+  "fields.report-to-regulatory-authorities.label": {
+    "message": "Relatório às autoridades reguladoras",
+    "description": "Label for field 'report-to-regulatory-authorities'"
+  },
+  "fields.location-of-impact.label": {
+    "message": "Localização do impacto",
+    "description": "Label for field 'location-of-impact'"
+  },
+  "fields.species-trafficked.label": {
+    "message": "Espécies traficadas",
+    "description": "Label for field 'species-trafficked'"
+  },
+  "fields.date-the-road-was-opened.label": {
+    "message": "Data em que a estrada foi aberta",
+    "description": "Label for field 'date-the-road-was-opened'"
+  },
+  "fields.date-it-started.label": {
+    "message": "Data em que começou",
+    "description": "Label for field 'date-it-started'"
+  },
+  "fields.the-fire-was-intentionally.label": {
+    "message": "O fogo foi intencional?",
+    "description": "Label for field 'the-fire-was-intentionally'"
+  },
+  "fields.company.placeholder": {
+    "message": "Qual é o nome da empresa?",
+    "description": "Helper text for field 'company'"
+  },
+  "fields.status-of-extraction.placeholder": {
+    "message": "Qual é o status da extração?",
+    "description": "Helper text for field 'status-of-extraction'"
+  },
+  "fields.equipment-in-use.placeholder": {
+    "message": "Que tipo de equipamentos, máquinas ou ferramentas estão sendo utilizados nesta atividade?",
+    "description": "Helper text for field 'equipment-in-use'"
+  },
+  "fields.environmental-impact-observed.placeholder": {
+    "message": "Que impactos ambientais foram observados?",
+    "description": "Helper text for field 'environmental-impact-observed'"
+  },
+  "fields.date-of-spill.placeholder": {
+    "message": "Quando isso começou?",
+    "description": "Helper text for field 'date-of-spill'"
+  },
+  "fields.level-of-mining.placeholder": {
+    "message": "Qual é a escala da mineração?",
+    "description": "Helper text for field 'level-of-mining'"
+  },
+  "fields.type-of-mining.placeholder": {
+    "message": "Que tipo de mineração está acontecendo aqui?",
+    "description": "Helper text for field 'type-of-mining'"
+  },
+  "fields.type-of-invaders.placeholder": {
+    "message": "Que tipo de invasão está acontecendo aqui?",
+    "description": "Helper text for field 'type-of-invaders'"
+  },
+  "fields.purpose-of-invasion.placeholder": {
+    "message": "Qual é o motivo da invasão?",
+    "description": "Helper text for field 'purpose-of-invasion'"
+  },
+  "fields.type-of-noise.placeholder": {
+    "message": "Que tipo de barulho você ouve aqui?",
+    "description": "Helper text for field 'type-of-noise'"
+  },
+  "fields.type-of-infrastructure.placeholder": {
+    "message": "Que tipo de construção ou trabalho governamental você vê aqui?",
+    "description": "Helper text for field 'type-of-infrastructure'"
+  },
+  "fields.cultivation-status.placeholder": {
+    "message": "Esta plantação está ativa ou inativa?",
+    "description": "Helper text for field 'cultivation-status'"
+  },
+  "fields.type-of-activity.placeholder": {
+    "message": "Que tipo de atividade está acontecendo aqui?",
+    "description": "Helper text for field 'type-of-activity'"
+  },
+  "fields.involvement-of-local-communities.placeholder": {
+    "message": "As pessoas da comunidade estão envolvidas nesta atividade?",
+    "description": "Helper text for field 'involvement-of-local-communities'"
+  },
+  "fields.report-to-regulatory-authorities.placeholder": {
+    "message": "Esta situação já foi comunicada às autoridades?",
+    "description": "Helper text for field 'report-to-regulatory-authorities'"
+  },
+  "fields.location-of-impact.placeholder": {
+    "message": "Onde está localizado o impacto?",
+    "description": "Helper text for field 'location-of-impact'"
+  },
+  "fields.species-trafficked.placeholder": {
+    "message": "Qual tipo de espécie está sendo traficada?",
+    "description": "Helper text for field 'species-trafficked'"
+  },
+  "fields.date-the-road-was-opened.placeholder": {
+    "message": "Quando essa estrada foi aberta?",
+    "description": "Helper text for field 'date-the-road-was-opened'"
+  },
+  "fields.date-it-started.placeholder": {
+    "message": "Quando o incêndio começou?",
+    "description": "Helper text for field 'date-it-started'"
+  },
+  "fields.the-fire-was-intentionally.placeholder": {
+    "message": "O motivo do incêndio foi criminoso?",
+    "description": "Helper text for field 'the-fire-was-intentionally'"
+  },
+  "fields.status-of-extraction.options.active": {
+    "message": {
+      "label": "Activo",
+      "value": "active"
+    },
+    "description": "Option 'Activo' for field 'Status of extraction'"
+  },
+  "fields.status-of-extraction.options.inactive": {
+    "message": {
+      "label": "inactivo",
+      "value": "inactive"
+    },
+    "description": "Option 'inactivo' for field 'Status of extraction'"
+  },
+  "fields.equipment-in-use.options.drilling-rig": {
+    "message": {
+      "label": "Equipo de perforación",
+      "value": "drilling-rig"
+    },
+    "description": "Option 'Equipo de perforación' for field 'Equipment in use'"
+  },
+  "fields.equipment-in-use.options.chainsaw": {
+    "message": {
+      "label": "motosierra",
+      "value": "chainsaw"
+    },
+    "description": "Option 'motosierra' for field 'Equipment in use'"
+  },
+  "fields.equipment-in-use.options.pump": {
+    "message": {
+      "label": "bomba",
+      "value": "pump"
+    },
+    "description": "Option 'bomba' for field 'Equipment in use'"
+  },
+  "fields.equipment-in-use.options.excavator": {
+    "message": {
+      "label": "excavadora",
+      "value": "excavator"
+    },
+    "description": "Option 'excavadora' for field 'Equipment in use'"
+  },
+  "fields.equipment-in-use.options.dump-truck": {
+    "message": {
+      "label": "camión volquete",
+      "value": "dump-truck"
+    },
+    "description": "Option 'camión volquete' for field 'Equipment in use'"
+  },
+  "fields.equipment-in-use.options.helicopter": {
+    "message": {
+      "label": "helicóptero",
+      "value": "helicopter"
+    },
+    "description": "Option 'helicóptero' for field 'Equipment in use'"
+  },
+  "fields.equipment-in-use.options.fishing-net": {
+    "message": {
+      "label": "red de pesca",
+      "value": "fishing-net"
+    },
+    "description": "Option 'red de pesca' for field 'Equipment in use'"
+  },
+  "fields.equipment-in-use.options.bulldozer": {
+    "message": {
+      "label": "topadora",
+      "value": "bulldozer"
+    },
+    "description": "Option 'topadora' for field 'Equipment in use'"
+  },
+  "fields.equipment-in-use.options.boat": {
+    "message": {
+      "label": "barco",
+      "value": "boat"
+    },
+    "description": "Option 'barco' for field 'Equipment in use'"
+  },
+  "fields.equipment-in-use.options.crane": {
+    "message": {
+      "label": "grúa",
+      "value": "crane"
+    },
+    "description": "Option 'grúa' for field 'Equipment in use'"
+  },
+  "fields.equipment-in-use.options.generator": {
+    "message": {
+      "label": "generador",
+      "value": "generator"
+    },
+    "description": "Option 'generador' for field 'Equipment in use'"
+  },
+  "fields.equipment-in-use.options.water-storage-tank": {
+    "message": {
+      "label": "tanque de almacenamiento de agua",
+      "value": "water-storage-tank"
+    },
+    "description": "Option 'tanque de almacenamiento de agua' for field 'Equipment in use'"
+  },
+  "fields.equipment-in-use.options.pipeline": {
+    "message": {
+      "label": "tubería",
+      "value": "pipeline"
+    },
+    "description": "Option 'tubería' for field 'Equipment in use'"
+  },
+  "fields.equipment-in-use.options.truck": {
+    "message": {
+      "label": "camión",
+      "value": "truck"
+    },
+    "description": "Option 'camión' for field 'Equipment in use'"
+  },
+  "fields.environmental-impact-observed.options.air-pollution": {
+    "message": {
+      "label": "Contaminación del aire",
+      "value": "air-pollution"
+    },
+    "description": "Option 'Contaminación del aire' for field 'Environmental impact observed'"
+  },
+  "fields.environmental-impact-observed.options.water-contamination": {
+    "message": {
+      "label": "contaminación del agua",
+      "value": "water-contamination"
+    },
+    "description": "Option 'contaminación del agua' for field 'Environmental impact observed'"
+  },
+  "fields.environmental-impact-observed.options.soil-degradation": {
+    "message": {
+      "label": "degradación del suelo",
+      "value": "soil-degradation"
+    },
+    "description": "Option 'degradación del suelo' for field 'Environmental impact observed'"
+  },
+  "fields.environmental-impact-observed.options.noise-disturbance": {
+    "message": {
+      "label": "perturbación por ruido",
+      "value": "noise-disturbance"
+    },
+    "description": "Option 'perturbación por ruido' for field 'Environmental impact observed'"
+  },
+  "fields.environmental-impact-observed.options.extinction-of-animal-species": {
+    "message": {
+      "label": "extinción de especies animales",
+      "value": "extinction-of-animal-species"
+    },
+    "description": "Option 'extinción de especies animales' for field 'Environmental impact observed'"
+  },
+  "fields.environmental-impact-observed.options.extinction-of-plant-species": {
+    "message": {
+      "label": "extinción de especies vegetales",
+      "value": "extinction-of-plant-species"
+    },
+    "description": "Option 'extinción de especies vegetales' for field 'Environmental impact observed'"
+  },
+  "fields.level-of-mining.options.industrial": {
+    "message": {
+      "label": "Industrial",
+      "value": "industrial"
+    },
+    "description": "Option 'Industrial' for field 'Level of mining'"
+  },
+  "fields.level-of-mining.options.artisanal": {
+    "message": {
+      "label": "Artesanal",
+      "value": "artisanal"
+    },
+    "description": "Option 'Artesanal' for field 'Level of mining'"
+  },
+  "fields.type-of-mining.options.open-pit": {
+    "message": {
+      "label": "A cielo abierto",
+      "value": "open-pit"
+    },
+    "description": "Option 'A cielo abierto' for field 'Type of mining'"
+  },
+  "fields.type-of-mining.options.underground": {
+    "message": {
+      "label": "subterráneo",
+      "value": "underground"
+    },
+    "description": "Option 'subterráneo' for field 'Type of mining'"
+  },
+  "fields.type-of-mining.options.river": {
+    "message": {
+      "label": "de río",
+      "value": "river"
+    },
+    "description": "Option 'de río' for field 'Type of mining'"
+  },
+  "fields.type-of-invaders.options.settler": {
+    "message": {
+      "label": "Colono",
+      "value": "settler"
+    },
+    "description": "Option 'Colono' for field 'Type of invaders'"
+  },
+  "fields.type-of-invaders.options.corporation": {
+    "message": {
+      "label": "corporación",
+      "value": "corporation"
+    },
+    "description": "Option 'corporación' for field 'Type of invaders'"
+  },
+  "fields.type-of-invaders.options.armed-group": {
+    "message": {
+      "label": "grupo armado",
+      "value": "armed-group"
+    },
+    "description": "Option 'grupo armado' for field 'Type of invaders'"
+  },
+  "fields.type-of-noise.options.urban-noise": {
+    "message": {
+      "label": "Ruido urbano",
+      "value": "urban-noise"
+    },
+    "description": "Option 'Ruido urbano' for field 'Type of noise'"
+  },
+  "fields.type-of-noise.options.continuous-noise": {
+    "message": {
+      "label": "ruido continuo",
+      "value": "continuous-noise"
+    },
+    "description": "Option 'ruido continuo' for field 'Type of noise'"
+  },
+  "fields.type-of-noise.options.intermittent-noise": {
+    "message": {
+      "label": "ruido intermitente",
+      "value": "intermittent-noise"
+    },
+    "description": "Option 'ruido intermitente' for field 'Type of noise'"
+  },
+  "fields.type-of-noise.options.machine-noise": {
+    "message": {
+      "label": "ruido de máquinas",
+      "value": "machine-noise"
+    },
+    "description": "Option 'ruido de máquinas' for field 'Type of noise'"
+  },
+  "fields.type-of-noise.options.train-noise": {
+    "message": {
+      "label": "ruido de trenes",
+      "value": "train-noise"
+    },
+    "description": "Option 'ruido de trenes' for field 'Type of noise'"
+  },
+  "fields.type-of-infrastructure.options.road": {
+    "message": {
+      "label": "Camino",
+      "value": "road"
+    },
+    "description": "Option 'Camino' for field 'Type of infrastructure'"
+  },
+  "fields.type-of-infrastructure.options.bridge": {
+    "message": {
+      "label": "puente",
+      "value": "bridge"
+    },
+    "description": "Option 'puente' for field 'Type of infrastructure'"
+  },
+  "fields.type-of-infrastructure.options.school": {
+    "message": {
+      "label": "escuela",
+      "value": "school"
+    },
+    "description": "Option 'escuela' for field 'Type of infrastructure'"
+  },
+  "fields.type-of-infrastructure.options.hospital": {
+    "message": {
+      "label": "hospital",
+      "value": "hospital"
+    },
+    "description": "Option 'hospital' for field 'Type of infrastructure'"
+  },
+  "fields.cultivation-status.options.active": {
+    "message": {
+      "label": "Activo",
+      "value": "active"
+    },
+    "description": "Option 'Activo' for field 'Cultivation status'"
+  },
+  "fields.cultivation-status.options.inactive": {
+    "message": {
+      "label": "inactivo",
+      "value": "inactive"
+    },
+    "description": "Option 'inactivo' for field 'Cultivation status'"
+  },
+  "fields.type-of-activity.options.trafficking": {
+    "message": {
+      "label": "Tráfico",
+      "value": "trafficking"
+    },
+    "description": "Option 'Tráfico' for field 'Type of activity'"
+  },
+  "fields.type-of-activity.options.processing": {
+    "message": {
+      "label": "procesamiento",
+      "value": "processing"
+    },
+    "description": "Option 'procesamiento' for field 'Type of activity'"
+  },
+  "fields.involvement-of-local-communities.options.yes": {
+    "message": {
+      "label": "Si no",
+      "value": "yes"
+    },
+    "description": "Option 'Si no' for field 'Involvement of local communities'"
+  },
+  "fields.report-to-regulatory-authorities.options.yes": {
+    "message": {
+      "label": "Si no",
+      "value": "yes"
+    },
+    "description": "Option 'Si no' for field 'Report to regulatory authorities'"
+  },
+  "fields.the-fire-was-intentionally.options.yes": {
+    "message": {
+      "label": "El incendio fue intencional",
+      "value": "yes"
+    },
+    "description": "Option 'El incendio fue intencional' for field 'The fire was intentionally'"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "tagKey": "fungi-uses",
+  "type": "text",
+  "label": "Fungi uses",
+  "placeholder": "How do you use it?",
+  "universal": false
+}

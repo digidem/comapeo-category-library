@@ -1,0 +1,29 @@
+{
+  "tagKey": "land-holding",
+  "type": "selectMultiple",
+  "label": "Land holding",
+  "placeholder": "What is the ownership classification of the land?",
+  "options": [
+    {
+      "label": "Family own",
+      "value": "family-own"
+    },
+    {
+      "label": "Community own",
+      "value": "community-own"
+    },
+    {
+      "label": "Governmental",
+      "value": "governmental"
+    },
+    {
+      "label": "Private",
+      "value": "private"
+    },
+    {
+      "label": "Other",
+      "value": "other"
+    }
+  ],
+  "universal": false
+}

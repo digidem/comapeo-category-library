@@ -1,0 +1,21 @@
+{
+  "tagKey": "water-levels",
+  "type": "selectMultiple",
+  "label": "Water levels",
+  "placeholder": "What is the water level like?",
+  "options": [
+    {
+      "label": "High",
+      "value": "high"
+    },
+    {
+      "label": "Average",
+      "value": "average"
+    },
+    {
+      "label": "Low",
+      "value": "low"
+    }
+  ],
+  "universal": false
+}

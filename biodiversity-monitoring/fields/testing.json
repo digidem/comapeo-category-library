@@ -1,0 +1,7 @@
+{
+  "tagKey": "testing",
+  "type": "text",
+  "label": "Testing",
+  "placeholder": "What is being tested here?",
+  "universal": false
+}

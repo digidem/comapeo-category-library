@@ -1,0 +1,25 @@
+{
+  "icon": "animal-route",
+  "color": "#e69138",
+  "fields": [
+    "animal-type",
+    "description",
+    "site-type"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "animal-route": "yes"
+  },
+  "name": "Animal route",
+  "sort": 5,
+  "terms": [
+    "Animal route",
+    "animal type",
+    "description",
+    "site type"
+  ]
+}

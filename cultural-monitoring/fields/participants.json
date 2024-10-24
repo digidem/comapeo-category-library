@@ -1,0 +1,7 @@
+{
+  "tagKey": "participants",
+  "type": "text",
+  "label": "Participants",
+  "placeholder": "Who are the individuals or groups actively involved on this?",
+  "universal": false
+}

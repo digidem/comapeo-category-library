@@ -1,0 +1,27 @@
+{
+  "icon": "water-source",
+  "color": "#9fc5e8",
+  "fields": [
+    "drinkable-water-source",
+    "name",
+    "water-levels",
+    "pollution"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "water-source": "yes"
+  },
+  "name": "Water source ",
+  "sort": 19,
+  "terms": [
+    "Water source ",
+    "drinkable water source",
+    "name",
+    "water levels",
+    "pollution"
+  ]
+}

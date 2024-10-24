@@ -1,0 +1,25 @@
+{
+  "icon": "fishing-site",
+  "color": "#38761d",
+  "fields": [
+    "status",
+    "species",
+    "land-holding"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "fishing-site": "yes"
+  },
+  "name": "Fishing site",
+  "sort": 7,
+  "terms": [
+    "Fishing site",
+    "status",
+    "species",
+    "land holding"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "tagKey": "bording-with",
+  "type": "text",
+  "label": "Bording with",
+  "placeholder": "What areas or properties share boundaries? Provide context about neighboring lands",
+  "universal": false
+}

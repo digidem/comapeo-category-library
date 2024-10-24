@@ -1,0 +1,13 @@
+{
+  "tagKey": "type-of-saltlick-site",
+  "type": "selectMultiple",
+  "label": "Type of saltlick site",
+  "placeholder": "What type of salt like is this?",
+  "options": [
+    {
+      "label": "Natural",
+      "value": "natural"
+    }
+  ],
+  "universal": false
+}

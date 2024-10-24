@@ -1,0 +1,44 @@
+name: Build and Release Categories
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install mapeo-settings-builder
+        run: npm install -g mapeo-settings-builder
+
+      - name: Build categories
+        run: |
+          for dir in */; do
+            if [ -d "$dir" ]; then
+              cd "$dir"
+              npm run build
+              cd ..
+            fi
+          done
+
+      - name: Upload .comapeocat files to release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for dir in */; do
+            if [ -d "$dir" ]; then
+              for file in "$dir"build/*.comapeocat; do
+                if [ -f "$file" ]; then
+                  gh release upload ${{ github.event.release.tag_name }} "$file"
+                fi
+              done
+            fi
+          done

@@ -1,0 +1,7 @@
+{
+  "tagKey": "creator",
+  "type": "text",
+  "label": "Creator ",
+  "placeholder": "Who is responsible for specific actions related to the land or resource?",
+  "universal": false
+}

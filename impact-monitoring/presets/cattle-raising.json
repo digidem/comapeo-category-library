@@ -1,0 +1,29 @@
+{
+  "icon": "cattle-raising",
+  "color": "#ffd966",
+  "fields": [
+    "company",
+    "equipment-in-use",
+    "environmental-impact-observed",
+    "involvement-of-local-communities",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "cattle-raising": "yes"
+  },
+  "name": "Cattle raising",
+  "sort": 9,
+  "terms": [
+    "Cattle raising",
+    "company",
+    "equipment in use",
+    "environmental impact observed",
+    "involvement of local communities",
+    "report to regulatory authorities"
+  ]
+}

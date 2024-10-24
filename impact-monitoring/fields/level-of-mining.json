@@ -1,0 +1,17 @@
+{
+  "tagKey": "level-of-mining",
+  "type": "selectOne",
+  "label": "Level of mining",
+  "placeholder": "What is the scale of mining?",
+  "options": [
+    {
+      "label": "Industrial",
+      "value": "industrial"
+    },
+    {
+      "label": "Artisanal",
+      "value": "artisanal"
+    }
+  ],
+  "universal": false
+}

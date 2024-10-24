@@ -1,0 +1,619 @@
+{
+  "presets.house.name": {
+    "message": "Casa",
+    "description": "Name for preset 'house'"
+  },
+  "presets.community.name": {
+    "message": "Comunidad",
+    "description": "Name for preset 'community'"
+  },
+  "presets.infrastructure.name": {
+    "message": "Infraestructura",
+    "description": "Name for preset 'infrastructure'"
+  },
+  "presets.historical-site.name": {
+    "message": "Sitio histórico",
+    "description": "Name for preset 'historical-site'"
+  },
+  "presets.ceremonial-or-sacred-site.name": {
+    "message": "Sitio ceremonial o sagrado",
+    "description": "Name for preset 'ceremonial-or-sacred-site'"
+  },
+  "presets.harvesting-site.name": {
+    "message": "Sitio de cosecha",
+    "description": "Name for preset 'harvesting-site'"
+  },
+  "presets.fishing-site.name": {
+    "message": "Sitio de pesca",
+    "description": "Name for preset 'fishing-site'"
+  },
+  "presets.hunting-site.name": {
+    "message": "Sitio de caza",
+    "description": "Name for preset 'hunting-site'"
+  },
+  "presets.burial-site.name": {
+    "message": "Sitio de entierro",
+    "description": "Name for preset 'burial-site'"
+  },
+  "presets.cultural-exchange-and-trade-routes.name": {
+    "message": "Intercambio Cultural y Rutas Comerciales",
+    "description": "Name for preset 'cultural-exchange-and-trade-routes'"
+  },
+  "presets.migration-routes.name": {
+    "message": "Rutas de migración",
+    "description": "Name for preset 'migration-routes'"
+  },
+  "presets.community-paths.name": {
+    "message": "Caminos comunitarios",
+    "description": "Name for preset 'community-paths'"
+  },
+  "presets.roads.name": {
+    "message": "Carreteras",
+    "description": "Name for preset 'roads'"
+  },
+  "presets.boundary-limit.name": {
+    "message": "Límite / Límite",
+    "description": "Name for preset 'boundary-limit'"
+  },
+  "presets.art.name": {
+    "message": "Arte",
+    "description": "Name for preset 'art'"
+  },
+  "presets.storytelling-testimonies.name": {
+    "message": "Narración y testimonios",
+    "description": "Name for preset 'storytelling-testimonies'"
+  },
+  "presets.traditional-music.name": {
+    "message": "Música Tradicional",
+    "description": "Name for preset 'traditional-music'"
+  },
+  "presets.traditional-dance.name": {
+    "message": "Danza Tradicional",
+    "description": "Name for preset 'traditional-dance'"
+  },
+  "presets.artisans-creators.name": {
+    "message": "Artesanos y creadores",
+    "description": "Name for preset 'artisans-creators'"
+  },
+  "presets.festivals-and-cultural-celebration.name": {
+    "message": "Festivales y Celebración Cultural",
+    "description": "Name for preset 'festivals-and-cultural-celebration'"
+  },
+  "presets.language-revitalization-practice.name": {
+    "message": "Práctica de revitalización del idioma",
+    "description": "Name for preset 'language-revitalization-practice'"
+  },
+  "fields.name.label": {
+    "message": "Nombre",
+    "description": "Label for field 'name'"
+  },
+  "fields.status.label": {
+    "message": "Estatus",
+    "description": "Label for field 'status'"
+  },
+  "fields.type-of-occupation.label": {
+    "message": "Tipo de ocupación",
+    "description": "Label for field 'type-of-occupation'"
+  },
+  "fields.type-of-infrastructure.label": {
+    "message": "Tipo de infraestructura",
+    "description": "Label for field 'type-of-infrastructure'"
+  },
+  "fields.land-holding.label": {
+    "message": "Propiedad del terreno",
+    "description": "Label for field 'land-holding'"
+  },
+  "fields.name-of-owner.label": {
+    "message": "Nombre del propietario",
+    "description": "Label for field 'name-of-owner'"
+  },
+  "fields.usage.label": {
+    "message": "Uso",
+    "description": "Label for field 'usage'"
+  },
+  "fields.method-of-harvesting.label": {
+    "message": "Método de cosecha",
+    "description": "Label for field 'method-of-harvesting'"
+  },
+  "fields.type-of-harvest.label": {
+    "message": "Tipo de cosecha",
+    "description": "Label for field 'type-of-harvest'"
+  },
+  "fields.species.label": {
+    "message": "Especies",
+    "description": "Label for field 'species'"
+  },
+  "fields.type-of-activity.label": {
+    "message": "Tipo de actividad",
+    "description": "Label for field 'type-of-activity'"
+  },
+  "fields.permanency.label": {
+    "message": "Permanencia",
+    "description": "Label for field 'permanency'"
+  },
+  "fields.used-by.label": {
+    "message": "Usado por",
+    "description": "Label for field 'used-by'"
+  },
+  "fields.bording-with.label": {
+    "message": "Limita con",
+    "description": "Label for field 'bording-with'"
+  },
+  "fields.type-of-land.label": {
+    "message": "Tipo de terreno",
+    "description": "Label for field 'type-of-land'"
+  },
+  "fields.creator.label": {
+    "message": "Realizado por",
+    "description": "Label for field 'creator'"
+  },
+  "fields.type-of-creation.label": {
+    "message": "Tipo de creación",
+    "description": "Label for field 'type-of-creation'"
+  },
+  "fields.ownership-of-creation.label": {
+    "message": "Propiedad de la creación",
+    "description": "Label for field 'ownership-of-creation'"
+  },
+  "fields.type-of-interpretation.label": {
+    "message": "Tipo de interpretación",
+    "description": "Label for field 'type-of-interpretation'"
+  },
+  "fields.frequency.label": {
+    "message": "Frecuencia",
+    "description": "Label for field 'frequency'"
+  },
+  "fields.participants.label": {
+    "message": "Participantes",
+    "description": "Label for field 'participants'"
+  },
+  "fields.type-of-practice.label": {
+    "message": "Tipo de práctica",
+    "description": "Label for field 'type-of-practice'"
+  },
+  "fields.name.placeholder": {
+    "message": "¿Cuál es el nombre de la persona o el lugar?",
+    "description": "Helper text for field 'name'"
+  },
+  "fields.status.placeholder": {
+    "message": "¿Cuál es el estado de uso?",
+    "description": "Helper text for field 'status'"
+  },
+  "fields.type-of-occupation.placeholder": {
+    "message": "¿Esta ocupación es legal o ilegal?",
+    "description": "Helper text for field 'type-of-occupation'"
+  },
+  "fields.type-of-infrastructure.placeholder": {
+    "message": "¿Qué es esta estructura física?",
+    "description": "Helper text for field 'type-of-infrastructure'"
+  },
+  "fields.land-holding.placeholder": {
+    "message": "¿Cuál es la clasificación de propiedad de la tierra?",
+    "description": "Helper text for field 'land-holding'"
+  },
+  "fields.name-of-owner.placeholder": {
+    "message": "¿Quién es la persona, familia u organización que posee o administra legalmente el espacio?",
+    "description": "Helper text for field 'name-of-owner'"
+  },
+  "fields.usage.placeholder": {
+    "message": "¿Cómo se utiliza la tierra o el recurso?",
+    "description": "Helper text for field 'usage'"
+  },
+  "fields.method-of-harvesting.placeholder": {
+    "message": "¿Qué técnicas se emplean para recolectar recursos?",
+    "description": "Helper text for field 'method-of-harvesting'"
+  },
+  "fields.type-of-harvest.placeholder": {
+    "message": "¿Cuál es la naturaleza del recurso que se recolecta?",
+    "description": "Helper text for field 'type-of-harvest'"
+  },
+  "fields.species.placeholder": {
+    "message": "¿Qué especies específicas de plantas y animales se producen o utilizan en el área?",
+    "description": "Helper text for field 'species'"
+  },
+  "fields.type-of-activity.placeholder": {
+    "message": "¿Qué acciones o eventos específicos están teniendo lugar?",
+    "description": "Helper text for field 'type-of-activity'"
+  },
+  "fields.permanency.placeholder": {
+    "message": "¿Qué indica la estabilidad o duración del uso o evento de la tierra?",
+    "description": "Helper text for field 'permanency'"
+  },
+  "fields.used-by.placeholder": {
+    "message": "¿Quién lo usa?",
+    "description": "Helper text for field 'used-by'"
+  },
+  "fields.bording-with.placeholder": {
+    "message": "¿Qué áreas o propiedades comparten límites? Proporcione contexto sobre las tierras vecinas",
+    "description": "Helper text for field 'bording-with'"
+  },
+  "fields.type-of-land.placeholder": {
+    "message": "¿Cómo se clasifica la tierra?",
+    "description": "Helper text for field 'type-of-land'"
+  },
+  "fields.creator.placeholder": {
+    "message": "¿Quién es responsable de acciones específicas relacionadas con la tierra o el recurso?",
+    "description": "Helper text for field 'creator'"
+  },
+  "fields.type-of-creation.placeholder": {
+    "message": "¿Qué diferentes tipos de artes y expresiones artísticas están representadas?",
+    "description": "Helper text for field 'type-of-creation'"
+  },
+  "fields.ownership-of-creation.placeholder": {
+    "message": "¿Los recursos o productos creados son propiedad personal o colectiva de un grupo?",
+    "description": "Helper text for field 'ownership-of-creation'"
+  },
+  "fields.type-of-interpretation.placeholder": {
+    "message": "¿La actividad o evento fue realizado por un individuo o un grupo?",
+    "description": "Helper text for field 'type-of-interpretation'"
+  },
+  "fields.frequency.placeholder": {
+    "message": "¿Con qué frecuencia se llevan a cabo estas actividades?",
+    "description": "Helper text for field 'frequency'"
+  },
+  "fields.participants.placeholder": {
+    "message": "¿Quiénes son las personas o grupos que participan activamente en esto?",
+    "description": "Helper text for field 'participants'"
+  },
+  "fields.type-of-practice.placeholder": {
+    "message": "¿Qué categorías de actividades se centran en la revitalización de las lenguas?",
+    "description": "Helper text for field 'type-of-practice'"
+  },
+  "fields.status.options.active": {
+    "message": {
+      "label": "Activo",
+      "value": "active"
+    },
+    "description": "Option 'Activo' for field 'Status'"
+  },
+  "fields.status.options.inactive": {
+    "message": {
+      "label": "Inactivo",
+      "value": "inactive"
+    },
+    "description": "Option 'Inactivo' for field 'Status'"
+  },
+  "fields.type-of-occupation.options.legal": {
+    "message": {
+      "label": "Legal",
+      "value": "legal"
+    },
+    "description": "Option 'Legal' for field 'Type of occupation'"
+  },
+  "fields.type-of-occupation.options.ilegal": {
+    "message": {
+      "label": "Ilegal",
+      "value": "ilegal"
+    },
+    "description": "Option 'Ilegal' for field 'Type of occupation'"
+  },
+  "fields.type-of-infrastructure.options.community-house": {
+    "message": {
+      "label": "Casa comunitaria",
+      "value": "community-house"
+    },
+    "description": "Option 'Casa comunitaria' for field 'Type of infrastructure'"
+  },
+  "fields.type-of-infrastructure.options.school": {
+    "message": {
+      "label": "Escuela",
+      "value": "school"
+    },
+    "description": "Option 'Escuela' for field 'Type of infrastructure'"
+  },
+  "fields.type-of-infrastructure.options.medical-post": {
+    "message": {
+      "label": "Centro médico",
+      "value": "medical-post"
+    },
+    "description": "Option 'Centro médico' for field 'Type of infrastructure'"
+  },
+  "fields.type-of-infrastructure.options.airstrip": {
+    "message": {
+      "label": "Pista de aterrizaje",
+      "value": "airstrip"
+    },
+    "description": "Option 'Pista de aterrizaje' for field 'Type of infrastructure'"
+  },
+  "fields.type-of-infrastructure.options.store": {
+    "message": {
+      "label": "Tienda",
+      "value": "store"
+    },
+    "description": "Option 'Tienda' for field 'Type of infrastructure'"
+  },
+  "fields.type-of-infrastructure.options.govermental-officce": {
+    "message": {
+      "label": "Oficina gubernamental",
+      "value": "govermental-officce"
+    },
+    "description": "Option 'Oficina gubernamental' for field 'Type of infrastructure'"
+  },
+  "fields.type-of-infrastructure.options.sport-court": {
+    "message": {
+      "label": "Cancha deportiva",
+      "value": "sport-court"
+    },
+    "description": "Option 'Cancha deportiva' for field 'Type of infrastructure'"
+  },
+  "fields.type-of-infrastructure.options.electrical-grid": {
+    "message": {
+      "label": "Red eléctrica",
+      "value": "electrical-grid"
+    },
+    "description": "Option 'Red eléctrica' for field 'Type of infrastructure'"
+  },
+  "fields.type-of-infrastructure.options.internet-point": {
+    "message": {
+      "label": "Punto de Internet",
+      "value": "internet-point"
+    },
+    "description": "Option 'Punto de Internet' for field 'Type of infrastructure'"
+  },
+  "fields.type-of-infrastructure.options.other": {
+    "message": {
+      "label": "Otro",
+      "value": "other"
+    },
+    "description": "Option 'Otro' for field 'Type of infrastructure'"
+  },
+  "fields.land-holding.options.family-own": {
+    "message": {
+      "label": "Propiedad familiar",
+      "value": "family-own"
+    },
+    "description": "Option 'Propiedad familiar' for field 'Land holding'"
+  },
+  "fields.land-holding.options.community-own": {
+    "message": {
+      "label": "propiedad de la comunidad",
+      "value": "community-own"
+    },
+    "description": "Option 'propiedad de la comunidad' for field 'Land holding'"
+  },
+  "fields.land-holding.options.governmental": {
+    "message": {
+      "label": "Gubernamental",
+      "value": "governmental"
+    },
+    "description": "Option 'Gubernamental' for field 'Land holding'"
+  },
+  "fields.land-holding.options.private": {
+    "message": {
+      "label": "otro",
+      "value": "private"
+    },
+    "description": "Option 'otro' for field 'Land holding'"
+  },
+  "fields.method-of-harvesting.options.hand-harvesting": {
+    "message": {
+      "label": "Cosecha a mano",
+      "value": "hand-harvesting"
+    },
+    "description": "Option 'Cosecha a mano' for field 'Method of harvesting'"
+  },
+  "fields.method-of-harvesting.options.tools-harvesting": {
+    "message": {
+      "label": "Cosecha con herramientas",
+      "value": "tools-harvesting"
+    },
+    "description": "Option 'Cosecha con herramientas' for field 'Method of harvesting'"
+  },
+  "fields.method-of-harvesting.options.machinery-harvesting": {
+    "message": {
+      "label": "Cosecha con maquinaria",
+      "value": "machinery-harvesting"
+    },
+    "description": "Option 'Cosecha con maquinaria' for field 'Method of harvesting'"
+  },
+  "fields.type-of-harvest.options.wild-harvest": {
+    "message": {
+      "label": "Cosecha silvestre",
+      "value": "wild-harvest"
+    },
+    "description": "Option 'Cosecha silvestre' for field 'Type of harvest'"
+  },
+  "fields.type-of-harvest.options.sowing": {
+    "message": {
+      "label": "Siembra",
+      "value": "sowing"
+    },
+    "description": "Option 'Siembra' for field 'Type of harvest'"
+  },
+  "fields.permanency.options.permanent": {
+    "message": {
+      "label": "Permanente",
+      "value": "permanent"
+    },
+    "description": "Option 'Permanente' for field 'Permanency'"
+  },
+  "fields.permanency.options.seasonal": {
+    "message": {
+      "label": "Estacional",
+      "value": "seasonal"
+    },
+    "description": "Option 'Estacional' for field 'Permanency'"
+  },
+  "fields.used-by.options.humans": {
+    "message": {
+      "label": "Humanos",
+      "value": "humans"
+    },
+    "description": "Option 'Humanos' for field 'Used by'"
+  },
+  "fields.used-by.options.animals": {
+    "message": {
+      "label": "Animales",
+      "value": "animals"
+    },
+    "description": "Option 'Animales' for field 'Used by'"
+  },
+  "fields.type-of-land.options.rural-indigenous": {
+    "message": {
+      "label": "Indígena",
+      "value": "rural-indigenous"
+    },
+    "description": "Option 'Indígena' for field 'Type of land'"
+  },
+  "fields.type-of-land.options.non-indigenous": {
+    "message": {
+      "label": "No indígena",
+      "value": "non-indigenous"
+    },
+    "description": "Option 'No indígena' for field 'Type of land'"
+  },
+  "fields.type-of-creation.options.painting": {
+    "message": {
+      "label": "Pintura",
+      "value": "painting"
+    },
+    "description": "Option 'Pintura' for field 'Type of creation'"
+  },
+  "fields.type-of-creation.options.sculpture": {
+    "message": {
+      "label": "Escultura",
+      "value": "sculpture"
+    },
+    "description": "Option 'Escultura' for field 'Type of creation'"
+  },
+  "fields.type-of-creation.options.textiles": {
+    "message": {
+      "label": "Textiles",
+      "value": "textiles"
+    },
+    "description": "Option 'Textiles' for field 'Type of creation'"
+  },
+  "fields.type-of-creation.options.ceramics": {
+    "message": {
+      "label": "Cerámica",
+      "value": "ceramics"
+    },
+    "description": "Option 'Cerámica' for field 'Type of creation'"
+  },
+  "fields.type-of-creation.options.theather": {
+    "message": {
+      "label": "Teatro",
+      "value": "theather"
+    },
+    "description": "Option 'Teatro' for field 'Type of creation'"
+  },
+  "fields.type-of-creation.options.basketry": {
+    "message": {
+      "label": "Cestería",
+      "value": "basketry"
+    },
+    "description": "Option 'Cestería' for field 'Type of creation'"
+  },
+  "fields.type-of-creation.options.beadwork": {
+    "message": {
+      "label": "Tejidos",
+      "value": "beadwork"
+    },
+    "description": "Option 'Tejidos' for field 'Type of creation'"
+  },
+  "fields.type-of-creation.options.carving": {
+    "message": {
+      "label": "Tallado",
+      "value": "carving"
+    },
+    "description": "Option 'Tallado' for field 'Type of creation'"
+  },
+  "fields.type-of-creation.options.body-painting": {
+    "message": {
+      "label": "Pintura corporal",
+      "value": "body-painting"
+    },
+    "description": "Option 'Pintura corporal' for field 'Type of creation'"
+  },
+  "fields.type-of-creation.options.tattoos": {
+    "message": {
+      "label": "Tatuajes",
+      "value": "tattoos"
+    },
+    "description": "Option 'Tatuajes' for field 'Type of creation'"
+  },
+  "fields.type-of-creation.options.written-literature": {
+    "message": {
+      "label": "Literatura escrita",
+      "value": "written-literature"
+    },
+    "description": "Option 'Literatura escrita' for field 'Type of creation'"
+  },
+  "fields.type-of-creation.options.photography": {
+    "message": {
+      "label": "Fotografía",
+      "value": "photography"
+    },
+    "description": "Option 'Fotografía' for field 'Type of creation'"
+  },
+  "fields.type-of-creation.options.film-and-video": {
+    "message": {
+      "label": "Cine y video",
+      "value": "film-and-video"
+    },
+    "description": "Option 'Cine y video' for field 'Type of creation'"
+  },
+  "fields.type-of-creation.options.other": {
+    "message": {
+      "label": "Otro",
+      "value": "other"
+    },
+    "description": "Option 'Otro' for field 'Type of creation'"
+  },
+  "fields.ownership-of-creation.options.personal": {
+    "message": {
+      "label": "Personal",
+      "value": "personal"
+    },
+    "description": "Option 'Personal' for field 'Ownership of Creation'"
+  },
+  "fields.ownership-of-creation.options.collective": {
+    "message": {
+      "label": "Colectivo",
+      "value": "collective"
+    },
+    "description": "Option 'Colectivo' for field 'Ownership of Creation'"
+  },
+  "fields.type-of-interpretation.options.individual": {
+    "message": {
+      "label": "Individual",
+      "value": "individual"
+    },
+    "description": "Option 'Individual' for field 'Type of interpretation'"
+  },
+  "fields.type-of-interpretation.options.collective": {
+    "message": {
+      "label": "Colectivo",
+      "value": "collective"
+    },
+    "description": "Option 'Colectivo' for field 'Type of interpretation'"
+  },
+  "fields.type-of-practice.options.language-classes-workshops": {
+    "message": {
+      "label": "Clases y talleres de idioma",
+      "value": "language-classes-workshops"
+    },
+    "description": "Option 'Clases y talleres de idioma' for field 'Type of practice'"
+  },
+  "fields.type-of-practice.options.curriculum-development-activity": {
+    "message": {
+      "label": "Actividad de desarrollo curricular",
+      "value": "curriculum-development-activity"
+    },
+    "description": "Option 'Actividad de desarrollo curricular' for field 'Type of practice'"
+  },
+  "fields.type-of-practice.options.language-documentation": {
+    "message": {
+      "label": "Documentación lingüística",
+      "value": "language-documentation"
+    },
+    "description": "Option 'Documentación lingüística' for field 'Type of practice'"
+  },
+  "fields.type-of-practice.options.other": {
+    "message": {
+      "label": "Otro",
+      "value": "other"
+    },
+    "description": "Option 'Otro' for field 'Type of practice'"
+  }
+}

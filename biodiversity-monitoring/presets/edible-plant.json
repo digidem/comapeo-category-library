@@ -1,0 +1,25 @@
+{
+  "icon": "edible-plant",
+  "color": "#b6d7a8",
+  "fields": [
+    "plant-species",
+    "name",
+    "plant-uses"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "edible-plant": "yes"
+  },
+  "name": "Edible plant",
+  "sort": 12,
+  "terms": [
+    "Edible plant",
+    "plant species",
+    "name",
+    "plant uses"
+  ]
+}

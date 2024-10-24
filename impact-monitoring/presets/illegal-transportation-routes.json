@@ -1,0 +1,31 @@
+{
+  "icon": "illegal-transportation-routes",
+  "color": "#9900ff",
+  "fields": [
+    "company",
+    "equipment-in-use",
+    "environmental-impact-observed",
+    "involvement-of-local-communities",
+    "date-the-road-was-opened",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "illegal-transportation-routes": "yes"
+  },
+  "name": "Illegal transportation routes",
+  "sort": 19,
+  "terms": [
+    "Illegal transportation routes",
+    "company",
+    "equipment in use",
+    "environmental impact observed",
+    "involvement of local communities",
+    "date the road was opened",
+    "report to regulatory authorities"
+  ]
+}

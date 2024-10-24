@@ -1,0 +1,7 @@
+{
+  "tagKey": "animal-type",
+  "type": "text",
+  "label": "Animal type",
+  "placeholder": "What type of animal is this?",
+  "universal": false
+}

@@ -1,0 +1,25 @@
+{
+  "icon": "house",
+  "color": "#4a86e8",
+  "fields": [
+    "name",
+    "type-of-occupation",
+    "land-holding"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "house": "yes"
+  },
+  "name": "House",
+  "sort": 1,
+  "terms": [
+    "House",
+    "name",
+    "type of occupation",
+    "land holding"
+  ]
+}

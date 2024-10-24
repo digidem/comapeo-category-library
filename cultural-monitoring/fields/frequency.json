@@ -1,0 +1,7 @@
+{
+  "tagKey": "frequency",
+  "type": "text",
+  "label": "Frequency",
+  "placeholder": "How often do these activities take place?",
+  "universal": false
+}

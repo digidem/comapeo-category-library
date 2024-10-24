@@ -1,0 +1,12 @@
+{
+  "name": "comapeo-impact-monitoring",
+  "version": "24.10.24",
+  "description": "CoMapeo configuration for config-impact-monitoring",
+  "dependencies": {
+    "mapeo-settings-builder": "^6.0.0"
+  },
+  "scripts": {
+    "build": "mkdir -p build && mapeo-settings build -l 'en' -o build/${npm_package_name}-v${npm_package_version}.comapeocat",
+    "lint": "mapeo-settings lint"
+  }
+}

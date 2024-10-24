@@ -1,0 +1,23 @@
+{
+  "icon": "art",
+  "color": "#674ea7",
+  "fields": [
+    "name",
+    "type-of-creation"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "art": "yes"
+  },
+  "name": "Art",
+  "sort": 15,
+  "terms": [
+    "Art",
+    "name",
+    "type of creation"
+  ]
+}

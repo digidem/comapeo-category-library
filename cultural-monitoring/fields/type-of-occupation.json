@@ -1,0 +1,17 @@
+{
+  "tagKey": "type-of-occupation",
+  "type": "selectOne",
+  "label": "Type of occupation",
+  "placeholder": "Is this occupation legal or ilegal? ",
+  "options": [
+    {
+      "label": "Legal",
+      "value": "legal"
+    },
+    {
+      "label": "Ilegal",
+      "value": "ilegal"
+    }
+  ],
+  "universal": false
+}

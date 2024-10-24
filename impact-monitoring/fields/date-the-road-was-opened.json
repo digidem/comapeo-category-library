@@ -1,0 +1,7 @@
+{
+  "tagKey": "date-the-road-was-opened",
+  "type": "text",
+  "label": "Date the road was opened",
+  "placeholder": "When was this road opened?",
+  "universal": false
+}

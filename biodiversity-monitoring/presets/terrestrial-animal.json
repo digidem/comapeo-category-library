@@ -1,0 +1,21 @@
+{
+  "icon": "terrestrial-animal",
+  "color": "#e69138",
+  "fields": [
+    "animal-type"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "terrestrial-animal": "yes"
+  },
+  "name": "Terrestrial animal",
+  "sort": 1,
+  "terms": [
+    "Terrestrial animal",
+    "animal type"
+  ]
+}

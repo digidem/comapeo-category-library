@@ -1,0 +1,23 @@
+{
+  "icon": "beach",
+  "color": "#9fc5e8",
+  "fields": [
+    "name",
+    "pollution"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "beach": "yes"
+  },
+  "name": "Beach",
+  "sort": 15,
+  "terms": [
+    "Beach",
+    "name",
+    "pollution"
+  ]
+}

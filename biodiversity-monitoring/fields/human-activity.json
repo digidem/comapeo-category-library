@@ -1,0 +1,17 @@
+{
+  "tagKey": "human-activity",
+  "type": "selectMultiple",
+  "label": "Human activity",
+  "placeholder": "What kind of human activity is this?",
+  "options": [
+    {
+      "label": "Lega",
+      "value": "lega"
+    },
+    {
+      "label": "Illegal",
+      "value": "illegal"
+    }
+  ],
+  "universal": false
+}

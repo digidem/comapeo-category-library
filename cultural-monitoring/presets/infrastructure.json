@@ -1,0 +1,27 @@
+{
+  "icon": "infrastructure",
+  "color": "#4a86e8",
+  "fields": [
+    "type-of-occupation",
+    "land-holding",
+    "type-of-infrastructure",
+    "status"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "infrastructure": "yes"
+  },
+  "name": "Infrastructure",
+  "sort": 3,
+  "terms": [
+    "Infrastructure",
+    "type of occupation",
+    "land holding",
+    "type of infrastructure",
+    "status"
+  ]
+}

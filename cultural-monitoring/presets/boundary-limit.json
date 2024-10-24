@@ -1,0 +1,23 @@
+{
+  "icon": "boundary-limit",
+  "color": "#ff6d01",
+  "fields": [
+    "bording-with",
+    "type-of-land"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "boundary-limit": "yes"
+  },
+  "name": "Boundary / Limit",
+  "sort": 14,
+  "terms": [
+    "Boundary / Limit",
+    "bording with",
+    "type of land"
+  ]
+}

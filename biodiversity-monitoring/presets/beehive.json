@@ -1,0 +1,21 @@
+{
+  "icon": "beehive",
+  "color": "#e69138",
+  "fields": [
+    "description"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "beehive": "yes"
+  },
+  "name": "Beehive ",
+  "sort": 4,
+  "terms": [
+    "Beehive ",
+    "description"
+  ]
+}

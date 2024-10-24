@@ -1,0 +1,7 @@
+{
+  "tagKey": "amount",
+  "type": "number",
+  "label": "Amount",
+  "placeholder": "How many are here?",
+  "universal": false
+}

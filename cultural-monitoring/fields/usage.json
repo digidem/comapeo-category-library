@@ -1,0 +1,7 @@
+{
+  "tagKey": "usage",
+  "type": "text",
+  "label": "Usage",
+  "placeholder": "How is the land or resource utilized?",
+  "universal": false
+}

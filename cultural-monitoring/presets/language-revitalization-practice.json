@@ -1,0 +1,23 @@
+{
+  "icon": "language-revitalization-practice",
+  "color": "#674ea7",
+  "fields": [
+    "type-of-practice",
+    "participants"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "language-revitalization-practice": "yes"
+  },
+  "name": "Language revitalization practice",
+  "sort": 21,
+  "terms": [
+    "Language revitalization practice",
+    "type of practice",
+    "participants"
+  ]
+}

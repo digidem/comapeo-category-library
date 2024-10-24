@@ -1,0 +1,21 @@
+{
+  "tagKey": "type-of-mining",
+  "type": "selectOne",
+  "label": "Type of mining",
+  "placeholder": "What kind of mining is happening here?",
+  "options": [
+    {
+      "label": "Open-pit",
+      "value": "open-pit"
+    },
+    {
+      "label": "Underground",
+      "value": "underground"
+    },
+    {
+      "label": "River",
+      "value": "river"
+    }
+  ],
+  "universal": false
+}

@@ -1,0 +1,21 @@
+{
+  "tagKey": "type-of-specie",
+  "type": "selectMultiple",
+  "label": "Type of specie",
+  "placeholder": "What kind of specie is here?",
+  "options": [
+    {
+      "label": "Animal",
+      "value": "animal"
+    },
+    {
+      "label": "Plant",
+      "value": "plant"
+    },
+    {
+      "label": "Fungi",
+      "value": "fungi"
+    }
+  ],
+  "universal": false
+}

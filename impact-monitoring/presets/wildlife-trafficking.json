@@ -1,0 +1,29 @@
+{
+  "icon": "wildlife-trafficking",
+  "color": "#ffd966",
+  "fields": [
+    "company",
+    "equipment-in-use",
+    "environmental-impact-observed",
+    "involvement-of-local-communities",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "wildlife-trafficking": "yes"
+  },
+  "name": "Wildlife trafficking",
+  "sort": 10,
+  "terms": [
+    "Wildlife trafficking",
+    "company",
+    "equipment in use",
+    "environmental impact observed",
+    "involvement of local communities",
+    "report to regulatory authorities"
+  ]
+}

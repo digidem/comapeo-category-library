@@ -1,0 +1,31 @@
+{
+  "icon": "oil-extraction",
+  "color": "#ff9900",
+  "fields": [
+    "company",
+    "status-of-extraction",
+    "equipment-in-use",
+    "environmental-impact-observed",
+    "involvement-of-local-communities",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "oil-extraction": "yes"
+  },
+  "name": "Oil extraction",
+  "sort": 1,
+  "terms": [
+    "Oil extraction",
+    "company",
+    "status of extraction",
+    "equipment in use",
+    "environmental impact observed",
+    "involvement of local communities",
+    "report to regulatory authorities"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "icon": "soil-regeneration",
+  "color": "#ffd966",
+  "fields": [
+    "soil-stage",
+    "description"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "soil-regeneration": "yes"
+  },
+  "name": "Soil regeneration ",
+  "sort": 22,
+  "terms": [
+    "Soil regeneration ",
+    "soil stage",
+    "description"
+  ]
+}

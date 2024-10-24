@@ -1,0 +1,17 @@
+{
+  "tagKey": "presence-of-animals",
+  "type": "selectMultiple",
+  "label": "Presence of animals",
+  "placeholder": "Did you see any animal?",
+  "options": [
+    {
+      "label": "Yes",
+      "value": "yes"
+    },
+    {
+      "label": "No",
+      "value": "no"
+    }
+  ],
+  "universal": false
+}

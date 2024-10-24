@@ -1,0 +1,23 @@
+{
+  "icon": "invasive-specie",
+  "color": "#ea9999",
+  "fields": [
+    "type-of-specie",
+    "description"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "invasive-specie": "yes"
+  },
+  "name": "Invasive specie",
+  "sort": 7,
+  "terms": [
+    "Invasive specie",
+    "type of specie",
+    "description"
+  ]
+}

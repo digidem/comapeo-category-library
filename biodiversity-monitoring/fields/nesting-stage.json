@@ -1,0 +1,21 @@
+{
+  "tagKey": "nesting-stage",
+  "type": "selectMultiple",
+  "label": "Nesting stage",
+  "placeholder": "What is happening here now?",
+  "options": [
+    {
+      "label": "Nest buildng",
+      "value": "nest-buildng"
+    },
+    {
+      "label": "Incubation",
+      "value": "incubation"
+    },
+    {
+      "label": "Empty",
+      "value": "empty"
+    }
+  ],
+  "universal": false
+}

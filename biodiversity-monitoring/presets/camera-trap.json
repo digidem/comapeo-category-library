@@ -1,0 +1,27 @@
+{
+  "icon": "camera-trap",
+  "color": "#d5a6bd",
+  "fields": [
+    "description",
+    "activity",
+    "animal-type",
+    "human-activity"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "camera-trap": "yes"
+  },
+  "name": "Camera trap",
+  "sort": 25,
+  "terms": [
+    "Camera trap",
+    "description",
+    "activity",
+    "animal type",
+    "human activity"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "icon": "tree",
+  "color": "#b6d7a8",
+  "fields": [
+    "tree-species"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "tree": "yes"
+  },
+  "name": "Tree",
+  "sort": 14,
+  "terms": [
+    "Tree",
+    "tree species"
+  ]
+}

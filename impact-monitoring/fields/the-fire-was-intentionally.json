@@ -1,0 +1,17 @@
+{
+  "tagKey": "the-fire-was-intentionally",
+  "type": "selectOne",
+  "label": "The fire was intentionally",
+  "placeholder": "Was the reason for the fire criminal?",
+  "options": [
+    {
+      "label": "Yes",
+      "value": "yes"
+    },
+    {
+      "label": "No",
+      "value": "no"
+    }
+  ],
+  "universal": false
+}

@@ -1,0 +1,17 @@
+{
+  "tagKey": "report-to-regulatory-authorities",
+  "type": "selectOne",
+  "label": "Report to regulatory authorities",
+  "placeholder": "Has this situation already been reported to the authorities?",
+  "options": [
+    {
+      "label": "Yes",
+      "value": "yes"
+    },
+    {
+      "label": "No",
+      "value": "no"
+    }
+  ],
+  "universal": false
+}

@@ -1,0 +1,17 @@
+{
+  "tagKey": "involvement-of-local-communities",
+  "type": "selectOne",
+  "label": "Involvement of local communities",
+  "placeholder": "Are people from the community involved in this activity?",
+  "options": [
+    {
+      "label": "Yes",
+      "value": "yes"
+    },
+    {
+      "label": "No",
+      "value": "no"
+    }
+  ],
+  "universal": false
+}

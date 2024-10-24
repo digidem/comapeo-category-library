@@ -1,0 +1,29 @@
+{
+  "icon": "land-invasion",
+  "color": "#9900ff",
+  "fields": [
+    "company",
+    "type-of-invaders",
+    "involvement-of-local-communities",
+    "environmental-impact-observed",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "land-invasion": "yes"
+  },
+  "name": "Land invasion",
+  "sort": 15,
+  "terms": [
+    "Land invasion",
+    "company",
+    "type of invaders",
+    "involvement of local communities",
+    "environmental impact observed",
+    "report to regulatory authorities"
+  ]
+}

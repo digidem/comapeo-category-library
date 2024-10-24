@@ -1,0 +1,17 @@
+{
+  "tagKey": "status",
+  "type": "selectMultiple",
+  "label": "Status",
+  "placeholder": "What is the status of usage?",
+  "options": [
+    {
+      "label": "Active",
+      "value": "active"
+    },
+    {
+      "label": "Inactive",
+      "value": "inactive"
+    }
+  ],
+  "universal": false
+}

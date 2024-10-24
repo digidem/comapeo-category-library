@@ -1,0 +1,25 @@
+{
+  "icon": "traditional-music",
+  "color": "#674ea7",
+  "fields": [
+    "type-of-creation",
+    "ownership-of-creation",
+    "creator"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "traditional-music": "yes"
+  },
+  "name": "Traditional Music",
+  "sort": 17,
+  "terms": [
+    "Traditional Music",
+    "type of creation",
+    "ownership of creation",
+    "creator"
+  ]
+}

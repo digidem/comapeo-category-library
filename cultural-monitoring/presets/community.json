@@ -1,0 +1,25 @@
+{
+  "icon": "community",
+  "color": "#4a86e8",
+  "fields": [
+    "name",
+    "type-of-occupation",
+    "land-holding"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "community": "yes"
+  },
+  "name": "Community",
+  "sort": 2,
+  "terms": [
+    "Community",
+    "name",
+    "type of occupation",
+    "land holding"
+  ]
+}

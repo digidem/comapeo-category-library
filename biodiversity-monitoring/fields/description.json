@@ -1,0 +1,7 @@
+{
+  "tagKey": "description",
+  "type": "text",
+  "label": "Description",
+  "placeholder": "How would you describe it?",
+  "universal": false
+}

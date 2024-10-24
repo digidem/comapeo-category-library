@@ -1,0 +1,17 @@
+{
+  "tagKey": "type-of-activity",
+  "type": "selectOne",
+  "label": "Type of activity",
+  "placeholder": "What kind of activity is happening here?",
+  "options": [
+    {
+      "label": "Trafficking",
+      "value": "trafficking"
+    },
+    {
+      "label": "Processing",
+      "value": "processing"
+    }
+  ],
+  "universal": false
+}

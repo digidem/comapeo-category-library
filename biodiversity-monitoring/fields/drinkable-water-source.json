@@ -1,0 +1,17 @@
+{
+  "tagKey": "drinkable-water-source",
+  "type": "selectMultiple",
+  "label": "Drinkable water source",
+  "placeholder": "Is this a drinkable water source?",
+  "options": [
+    {
+      "label": "Yes",
+      "value": "yes"
+    },
+    {
+      "label": "No",
+      "value": "no"
+    }
+  ],
+  "universal": false
+}

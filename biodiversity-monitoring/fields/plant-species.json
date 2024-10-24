@@ -1,0 +1,65 @@
+{
+  "tagKey": "plant-species",
+  "type": "selectMultiple",
+  "label": "Plant species",
+  "placeholder": "What kind of plant species is this?",
+  "options": [
+    {
+      "label": "Tree",
+      "value": "tree"
+    },
+    {
+      "label": "Shrub",
+      "value": "shrub"
+    },
+    {
+      "label": "Vine",
+      "value": "vine"
+    },
+    {
+      "label": "Herb",
+      "value": "herb"
+    },
+    {
+      "label": "Grass",
+      "value": "grass"
+    },
+    {
+      "label": "Fern",
+      "value": "fern"
+    },
+    {
+      "label": "Moss",
+      "value": "moss"
+    },
+    {
+      "label": "Succulent",
+      "value": "succulent"
+    },
+    {
+      "label": "Palm",
+      "value": "palm"
+    },
+    {
+      "label": "Ground cover plant",
+      "value": "ground-cover-plant"
+    },
+    {
+      "label": "Epiphyte",
+      "value": "epiphyte"
+    },
+    {
+      "label": "Aquatic plant",
+      "value": "aquatic-plant"
+    },
+    {
+      "label": "Bamboo",
+      "value": "bamboo"
+    },
+    {
+      "label": "Cactus",
+      "value": "cactus"
+    }
+  ],
+  "universal": false
+}

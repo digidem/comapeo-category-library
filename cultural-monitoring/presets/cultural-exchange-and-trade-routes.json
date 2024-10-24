@@ -1,0 +1,25 @@
+{
+  "icon": "cultural-exchange-and-trade-routes",
+  "color": "#ff6d01",
+  "fields": [
+    "name",
+    "status",
+    "type-of-activity"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "cultural-exchange-and-trade-routes": "yes"
+  },
+  "name": "Cultural Exchange and Trade Routes",
+  "sort": 10,
+  "terms": [
+    "Cultural Exchange and Trade Routes",
+    "name",
+    "status",
+    "type of activity"
+  ]
+}

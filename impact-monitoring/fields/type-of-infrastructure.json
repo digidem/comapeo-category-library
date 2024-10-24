@@ -1,0 +1,25 @@
+{
+  "tagKey": "type-of-infrastructure",
+  "type": "selectOne",
+  "label": "Type of infrastructure",
+  "placeholder": "What kind of construction or government work do you see here?",
+  "options": [
+    {
+      "label": "Road",
+      "value": "road"
+    },
+    {
+      "label": "Bridge",
+      "value": "bridge"
+    },
+    {
+      "label": "School",
+      "value": "school"
+    },
+    {
+      "label": "Hospital",
+      "value": "hospital"
+    }
+  ],
+  "universal": false
+}

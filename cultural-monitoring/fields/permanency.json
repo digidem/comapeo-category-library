@@ -1,0 +1,17 @@
+{
+  "tagKey": "permanency",
+  "type": "selectMultiple",
+  "label": "Permanency",
+  "placeholder": "What indicates the stability or duration of the land use or event?",
+  "options": [
+    {
+      "label": "Permanent",
+      "value": "permanent"
+    },
+    {
+      "label": "Seasonal",
+      "value": "seasonal"
+    }
+  ],
+  "universal": false
+}

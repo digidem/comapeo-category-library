@@ -1,0 +1,7 @@
+{
+  "tagKey": "species-trafficked",
+  "type": "text",
+  "label": "Species trafficked",
+  "placeholder": "What type of species is being trafficked?",
+  "universal": false
+}

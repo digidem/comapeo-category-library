@@ -1,0 +1,21 @@
+{
+  "icon": "storytelling-testimonies",
+  "color": "#674ea7",
+  "fields": [
+    "type-of-creation"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "storytelling-testimonies": "yes"
+  },
+  "name": "Storytelling & testimonies",
+  "sort": 16,
+  "terms": [
+    "Storytelling & testimonies",
+    "type of creation"
+  ]
+}

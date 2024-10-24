@@ -1,0 +1,29 @@
+{
+  "icon": "migration-routes",
+  "color": "#ff6d01",
+  "fields": [
+    "name",
+    "status",
+    "permanency",
+    "used-by",
+    "usage"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "migration-routes": "yes"
+  },
+  "name": "Migration Routes",
+  "sort": 11,
+  "terms": [
+    "Migration Routes",
+    "name",
+    "status",
+    "permanency",
+    "used by",
+    "usage"
+  ]
+}

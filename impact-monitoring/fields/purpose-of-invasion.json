@@ -1,0 +1,7 @@
+{
+  "tagKey": "purpose-of-invasion",
+  "type": "text",
+  "label": "Purpose of invasion",
+  "placeholder": "What is the reason for the invasion?",
+  "universal": false
+}

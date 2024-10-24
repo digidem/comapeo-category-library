@@ -1,0 +1,29 @@
+{
+  "icon": "water-resource-utilization",
+  "color": "#9900ff",
+  "fields": [
+    "company",
+    "equipment-in-use",
+    "involvement-of-local-communities",
+    "environmental-impact-observed",
+    "report-to-regulatory-authorities"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "water-resource-utilization": "yes"
+  },
+  "name": "Water resource utilization",
+  "sort": 12,
+  "terms": [
+    "Water resource utilization",
+    "company",
+    "equipment in use",
+    "involvement of local communities",
+    "environmental impact observed",
+    "report to regulatory authorities"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "icon": "harvesting-site",
+  "color": "#38761d",
+  "fields": [
+    "land-holding",
+    "type-of-harvest",
+    "method-of-harvesting",
+    "species"
+  ],
+  "geometry": [
+    "point",
+    "line",
+    "area"
+  ],
+  "tags": {
+    "harvesting-site": "yes"
+  },
+  "name": "Harvesting site",
+  "sort": 6,
+  "terms": [
+    "Harvesting site",
+    "land holding",
+    "type of harvest",
+    "method of harvesting",
+    "species"
+  ]
+}
